@@ -1,0 +1,646 @@
+﻿codigo_ibge;municipio;reg_adm;reg_gov;reg_metrop;aglom_urb;drs_numero;drs;drs_plano_sp;tj_raj;tj_cj;tj_comarca;tj_comarca_2
+3503901;Arujá;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Leste;1ª RAJ - Grande São Paulo;44ª CJ: GUARULHOS;Comarca: ARUJA;ARUJA
+3505708;Barueri;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Oeste;1ª RAJ - Grande São Paulo;04ª CJ: OSASCO;Comarca: BARUERI;BARUERI
+3506607;Biritiba-Mirim;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Leste;1ª RAJ - Grande São Paulo;45ª CJ: MOGI DAS CRUZES;Comarca: MOGI DAS CRUZES;MOGI DAS CRUZES
+3509007;Caieiras;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Norte;4ª RAJ - Campinas;05ª CJ: JUNDIAÍ;Comarca: CAIEIRAS;CAIEIRAS
+3509205;Cajamar;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Norte;4ª RAJ - Campinas;05ª CJ: JUNDIAÍ;Comarca: CAJAMAR;CAJAMAR
+3510609;Carapicuíba;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Oeste;1ª RAJ - Grande São Paulo;04ª CJ: OSASCO;Comarca: CARAPICUIBA;CARAPICUIBA
+3513009;Cotia;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Sudoeste;1ª RAJ - Grande São Paulo;52ª CJ: ITAPECERICA DA SERRA;Comarca: COTIA;COTIA
+3513801;Diadema;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Sudeste;1ª RAJ - Grande São Paulo;02ª CJ: SÃO BERNARDO DO CAMPO;Comarca: DIADEMA;DIADEMA
+3515004;Embu das Artes;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Sudoeste;1ª RAJ - Grande São Paulo;52ª CJ: ITAPECERICA DA SERRA;Comarca: EMBU DAS ARTES;EMBU DAS ARTES
+3515103;Embu-Guaçu;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Sudoeste;1ª RAJ - Grande São Paulo;52ª CJ: ITAPECERICA DA SERRA;Comarca: EMBU-GUACU;EMBU-GUACU
+3515707;Ferraz de Vasconcelos;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Leste;1ª RAJ - Grande São Paulo;45ª CJ: MOGI DAS CRUZES;Comarca: FERRAZ DE VASCONCELOS;FERRAZ DE VASCONCELOS
+3516309;Francisco Morato;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Norte;4ª RAJ - Campinas;05ª CJ: JUNDIAÍ;Comarca: FRANCISCO MORATO;FRANCISCO MORATO
+3516408;Franco da Rocha;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Norte;4ª RAJ - Campinas;05ª CJ: JUNDIAÍ;Comarca: FRANCO DA ROCHA;FRANCO DA ROCHA
+3518305;Guararema;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Leste;1ª RAJ - Grande São Paulo;45ª CJ: MOGI DAS CRUZES;Comarca: GUARAREMA;GUARAREMA
+3518800;Guarulhos;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Leste;1ª RAJ - Grande São Paulo;44ª CJ: GUARULHOS;Comarca: GUARULHOS;GUARULHOS
+3522208;Itapecerica da Serra;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Sudoeste;1ª RAJ - Grande São Paulo;52ª CJ: ITAPECERICA DA SERRA;Comarca: ITAPECERICA DA SERRA;ITAPECERICA DA SERRA
+3522505;Itapevi;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Oeste;1ª RAJ - Grande São Paulo;52ª CJ: ITAPECERICA DA SERRA;Comarca: ITAPEVI;ITAPEVI
+3523107;Itaquaquecetuba;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Leste;1ª RAJ - Grande São Paulo;45ª CJ: MOGI DAS CRUZES;Comarca: ITAQUAQUECETUBA;ITAQUAQUECETUBA
+3525003;Jandira;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Oeste;1ª RAJ - Grande São Paulo;04ª CJ: OSASCO;Comarca: JANDIRA;JANDIRA
+3526209;Juquitiba;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Sudoeste;1ª RAJ - Grande São Paulo;52ª CJ: ITAPECERICA DA SERRA;Comarca: ITAPECERICA DA SERRA;ITAPECERICA DA SERRA
+3528502;Mairiporã;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Norte;1ª RAJ - Grande São Paulo;44ª CJ: GUARULHOS;Comarca: MAIRIPORA;MAIRIPORA
+3529401;Mauá;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Sudeste;1ª RAJ - Grande São Paulo;03ª CJ: SANTO ANDRÉ;Comarca: MAUA;MAUA
+3530607;Mogi das Cruzes;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Leste;1ª RAJ - Grande São Paulo;45ª CJ: MOGI DAS CRUZES;Comarca: MOGI DAS CRUZES;MOGI DAS CRUZES
+3534401;Osasco;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Oeste;1ª RAJ - Grande São Paulo;04ª CJ: OSASCO;Comarca: OSASCO;OSASCO
+3539103;Pirapora do Bom Jesus;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Oeste;1ª RAJ - Grande São Paulo;04ª CJ: OSASCO;Comarca: SANTANA DE PARNAIBA;SANTANA DE PARNAIBA
+3539806;Poá;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Leste;1ª RAJ - Grande São Paulo;45ª CJ: MOGI DAS CRUZES;Comarca: POA;POA
+3543303;Ribeirão Pires;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Sudeste;1ª RAJ - Grande São Paulo;03ª CJ: SANTO ANDRÉ;Comarca: RIBEIRAO PIRES;RIBEIRAO PIRES
+3544103;Rio Grande da Serra;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Sudeste;1ª RAJ - Grande São Paulo;03ª CJ: SANTO ANDRÉ;Comarca: RIO GRANDE DA SERRA;RIO GRANDE DA SERRA
+3545001;Salesópolis;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Leste;9ª RAJ - São José dos Campos;46ª CJ: SÃO JOSÉ DOS CAMPOS;Comarca: SALESOPOLIS;SALESOPOLIS
+3546801;Santa Isabel;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Leste;1ª RAJ - Grande São Paulo;44ª CJ: GUARULHOS;Comarca: SANTA ISABEL;SANTA ISABEL
+3547304;Santana de Parnaíba;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Oeste;1ª RAJ - Grande São Paulo;04ª CJ: OSASCO;Comarca: SANTANA DE PARNAIBA;SANTANA DE PARNAIBA
+3547809;Santo André;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Sudeste;1ª RAJ - Grande São Paulo;03ª CJ: SANTO ANDRÉ;Comarca: SANTO ANDRÉ;SANTO ANDRÉ
+3548708;São Bernardo do Campo;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Sudeste;1ª RAJ - Grande São Paulo;02ª CJ: SÃO BERNARDO DO CAMPO;Comarca: SÃO BERNARDO DO CAMPO;SÃO BERNARDO DO CAMPO
+3548807;São Caetano do Sul;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Sudeste;1ª RAJ - Grande São Paulo;03ª CJ: SANTO ANDRÉ;Comarca: SAO CAETANO DO SUL;SAO CAETANO DO SUL
+3549953;São Lourenço da Serra;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Sudoeste;1ª RAJ - Grande São Paulo;52ª CJ: ITAPECERICA DA SERRA;Comarca: ITAPECERICA DA SERRA;ITAPECERICA DA SERRA
+3550308;São Paulo;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP - São Paulo;1ª RAJ - Grande São Paulo;CAPITAL;Comarca: SÃO PAULO;SÃO PAULO
+3552502;Suzano;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Leste;1ª RAJ - Grande São Paulo;45ª CJ: MOGI DAS CRUZES;Comarca: SUZANO;SUZANO
+3552809;Taboão da Serra;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Sudoeste;1ª RAJ - Grande São Paulo;52ª CJ: ITAPECERICA DA SERRA;Comarca: TABOAO DA SERRA;TABOAO DA SERRA
+3556453;Vargem Grande Paulista;-;-;RM de São Paulo;-;DRS I - Grande São Paulo;DRS - Grande São Paulo;DRS - GSP -Sudoeste;1ª RAJ - Grande São Paulo;52ª CJ: ITAPECERICA DA SERRA;Comarca: VARGEM GRANDE PAULISTA;VARGEM GRANDE PAULISTA
+3501103;Alto Alegre;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;36ª CJ: ARAÇATUBA;Comarca: PENAPOLIS;PENAPOLIS
+3502101;Andradina;RA de Araçatuba;RG de Andradina;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;37ª CJ: ANDRADINA;Comarca: ANDRADINA;ANDRADINA
+3502804;Araçatuba;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;36ª CJ: ARAÇATUBA;Comarca: ARAÇATUBA;ARAÇATUBA
+3504206;Auriflama;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;55ª CJ: JALES;Comarca: AURIFLAMA;AURIFLAMA
+3504404;Avanhandava;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;36ª CJ: ARAÇATUBA;Comarca: PENAPOLIS;PENAPOLIS
+3505104;Barbosa;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;36ª CJ: ARAÇATUBA;Comarca: PENAPOLIS;PENAPOLIS
+3506201;Bento de Abreu;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;36ª CJ: ARAÇATUBA;Comarca: VALPARAISO;VALPARAISO
+3506409;Bilac;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;36ª CJ: ARAÇATUBA;Comarca: BILAC;BILAC
+3506508;Birigui;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;36ª CJ: ARAÇATUBA;Comarca: BIRIGUI;BIRIGUI
+3507704;Braúna;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;36ª CJ: ARAÇATUBA;Comarca: PENAPOLIS;PENAPOLIS
+3507753;Brejo Alegre;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;36ª CJ: ARAÇATUBA;Comarca: BIRIGUI;BIRIGUI
+3508108;Buritama;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;36ª CJ: ARAÇATUBA;Comarca: BURITAMA;BURITAMA
+3511003;Castilho;RA de Araçatuba;RG de Andradina;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;37ª CJ: ANDRADINA;Comarca: ANDRADINA;ANDRADINA
+3511904;Clementina;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;36ª CJ: ARAÇATUBA;Comarca: BIRIGUI;BIRIGUI
+3512506;Coroados;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;36ª CJ: ARAÇATUBA;Comarca: BIRIGUI;BIRIGUI
+3516507;Gabriel Monteiro;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;36ª CJ: ARAÇATUBA;Comarca: BILAC;BILAC
+3517109;Glicério;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;36ª CJ: ARAÇATUBA;Comarca: PENAPOLIS;PENAPOLIS
+3517802;Guaraçaí;RA de Araçatuba;RG de Andradina;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;37ª CJ: ANDRADINA;Comarca: MIRANDOPOLIS;MIRANDOPOLIS
+3518206;Guararapes;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;36ª CJ: ARAÇATUBA;Comarca: GUARARAPES;GUARARAPES
+3518909;Guzolândia;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;55ª CJ: JALES;Comarca: AURIFLAMA;AURIFLAMA
+3520442;Ilha Solteira;RA de Araçatuba;RG de Andradina;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;37ª CJ: ANDRADINA;Comarca: ILHA SOLTEIRA;ILHA SOLTEIRA
+3523008;Itapura;RA de Araçatuba;RG de Andradina;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;37ª CJ: ANDRADINA;Comarca: ILHA SOLTEIRA;ILHA SOLTEIRA
+3526506;Lavínia;RA de Araçatuba;RG de Andradina;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;37ª CJ: ANDRADINA;Comarca: MIRANDOPOLIS;MIRANDOPOLIS
+3527256;Lourdes;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;36ª CJ: ARAÇATUBA;Comarca: BURITAMA;BURITAMA
+3527702;Luiziânia;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;36ª CJ: ARAÇATUBA;Comarca: PENAPOLIS;PENAPOLIS
+3530102;Mirandópolis;RA de Araçatuba;RG de Andradina;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;37ª CJ: ANDRADINA;Comarca: MIRANDOPOLIS;MIRANDOPOLIS
+3532108;Murutinga do Sul;RA de Araçatuba;RG de Andradina;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;37ª CJ: ANDRADINA;Comarca: ANDRADINA;ANDRADINA
+3532868;Nova Castilho;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;8ª RAJ - São José do Rio Preto;18ª CJ: FERNANDÓPOLIS;Comarca: GENERAL SALGADO;GENERAL SALGADO
+3533205;Nova Independência;RA de Araçatuba;RG de Andradina;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;37ª CJ: ANDRADINA;Comarca: ANDRADINA;ANDRADINA
+3533304;Nova Luzitânia;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;8ª RAJ - São José do Rio Preto;17ª CJ: VOTUPORANGA;Comarca: NHANDEARA;NHANDEARA
+3537305;Penápolis;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;36ª CJ: ARAÇATUBA;Comarca: PENAPOLIS;PENAPOLIS
+3537404;Pereira Barreto;RA de Araçatuba;RG de Andradina;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;37ª CJ: ANDRADINA;Comarca: PEREIRA BARRETO;PEREIRA BARRETO
+3537701;Piacatu;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;36ª CJ: ARAÇATUBA;Comarca: BILAC;BILAC
+3544400;Rubiácea;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;36ª CJ: ARAÇATUBA;Comarca: GUARARAPES;GUARARAPES
+3548054;Santo Antônio do Aracanguá;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;36ª CJ: ARAÇATUBA;Comarca: ARAÇATUBA;ARAÇATUBA
+3548401;Santópolis do Aguapeí;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;36ª CJ: ARAÇATUBA;Comarca: BIRIGUI;BIRIGUI
+3552304;Sud Mennucci;RA de Araçatuba;RG de Andradina;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;37ª CJ: ANDRADINA;Comarca: PEREIRA BARRETO;PEREIRA BARRETO
+3552551;Suzanápolis;RA de Araçatuba;RG de Andradina;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;37ª CJ: ANDRADINA;Comarca: PEREIRA BARRETO;PEREIRA BARRETO
+3555208;Turiúba;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;36ª CJ: ARAÇATUBA;Comarca: BURITAMA;BURITAMA
+3556305;Valparaíso;RA de Araçatuba;RG de Araçatuba;-;-;DRS II - Araçatuba;DRS - Araçatuba;DRS - Araçatuba;2ª RAJ - Araçatuba;36ª CJ: ARAÇATUBA;Comarca: VALPARAISO;VALPARAISO
+3501707;Américo Brasiliense;RA Central;RG de Araraquara;-;-;DRS III - Araraquara;DRS - Araraquara;DRS - Araraquara;6ª RAJ - Ribeirão Preto;13ª CJ: ARARAQUARA;Comarca: AMERICO BRASILIENSE;AMERICO BRASILIENSE
+3503208;Araraquara;RA Central;RG de Araraquara;-;-;DRS III - Araraquara;DRS - Araraquara;DRS - Araraquara;6ª RAJ - Ribeirão Preto;13ª CJ: ARARAQUARA;Comarca: ARARAQUARA;ARARAQUARA
+3506706;Boa Esperança do Sul;RA Central;RG de Araraquara;-;-;DRS III - Araraquara;DRS - Araraquara;DRS - Araraquara;6ª RAJ - Ribeirão Preto;12ª CJ: SÃO CARLOS;Comarca: RIBEIRAO BONITO;RIBEIRAO BONITO
+3507407;Borborema;RA Central;RG de Araraquara;-;-;DRS III - Araraquara;DRS - Araraquara;DRS - Araraquara;6ª RAJ - Ribeirão Preto;13ª CJ: ARARAQUARA;Comarca: BORBOREMA;BORBOREMA
+3510104;Cândido Rodrigues;RA Central;RG de Araraquara;-;-;DRS III - Araraquara;DRS - Araraquara;DRS - Araraquara;6ª RAJ - Ribeirão Preto;42ª CJ: JABOTICABAL;Comarca: TAQUARITINGA;TAQUARITINGA
+3513702;Descalvado;RA Central;RG de São Carlos;-;-;DRS III - Araraquara;DRS - Araraquara;DRS - Araraquara;6ª RAJ - Ribeirão Preto;12ª CJ: SÃO CARLOS;Comarca: DESCALVADO;DESCALVADO
+3514007;Dobrada;RA Central;RG de Araraquara;-;-;DRS III - Araraquara;DRS - Araraquara;DRS - Araraquara;6ª RAJ - Ribeirão Preto;13ª CJ: ARARAQUARA;Comarca: MATAO;MATAO
+3514304;Dourado;RA Central;RG de São Carlos;-;-;DRS III - Araraquara;DRS - Araraquara;DRS - Araraquara;6ª RAJ - Ribeirão Preto;12ª CJ: SÃO CARLOS;Comarca: RIBEIRAO BONITO;RIBEIRAO BONITO
+3516853;Gavião Peixoto;RA Central;RG de Araraquara;-;-;DRS III - Araraquara;DRS - Araraquara;DRS - Araraquara;6ª RAJ - Ribeirão Preto;13ª CJ: ARARAQUARA;Comarca: ARARAQUARA;ARARAQUARA
+3519303;Ibaté;RA Central;RG de São Carlos;-;-;DRS III - Araraquara;DRS - Araraquara;DRS - Araraquara;6ª RAJ - Ribeirão Preto;12ª CJ: SÃO CARLOS;Comarca: IBATE;IBATE
+3519600;Ibitinga;RA Central;RG de Araraquara;-;-;DRS III - Araraquara;DRS - Araraquara;DRS - Araraquara;6ª RAJ - Ribeirão Preto;13ª CJ: ARARAQUARA;Comarca: IBITINGA;IBITINGA
+3522703;Itápolis;RA Central;RG de Araraquara;-;-;DRS III - Araraquara;DRS - Araraquara;DRS - Araraquara;6ª RAJ - Ribeirão Preto;13ª CJ: ARARAQUARA;Comarca: ITAPOLIS;ITAPOLIS
+3529302;Matão;RA Central;RG de Araraquara;-;-;DRS III - Araraquara;DRS - Araraquara;DRS - Araraquara;6ª RAJ - Ribeirão Preto;13ª CJ: ARARAQUARA;Comarca: MATAO;MATAO
+3532058;Motuca;RA Central;RG de Araraquara;-;-;DRS III - Araraquara;DRS - Araraquara;DRS - Araraquara;6ª RAJ - Ribeirão Preto;13ª CJ: ARARAQUARA;Comarca: AMERICO BRASILIENSE;AMERICO BRASILIENSE
+3532900;Nova Europa;RA Central;RG de Araraquara;-;-;DRS III - Araraquara;DRS - Araraquara;DRS - Araraquara;6ª RAJ - Ribeirão Preto;13ª CJ: ARARAQUARA;Comarca: ARARAQUARA;ARARAQUARA
+3540705;Porto Ferreira;RA Central;RG de São Carlos;-;-;DRS III - Araraquara;DRS - Araraquara;DRS - Araraquara;4ª RAJ - Campinas;11ª CJ: PIRASSUNUNGA;Comarca: PORTO FERREIRA;PORTO FERREIRA
+3542909;Ribeirão Bonito;RA Central;RG de São Carlos;-;-;DRS III - Araraquara;DRS - Araraquara;DRS - Araraquara;6ª RAJ - Ribeirão Preto;12ª CJ: SÃO CARLOS;Comarca: RIBEIRAO BONITO;RIBEIRAO BONITO
+3543709;Rincão;RA Central;RG de Araraquara;-;-;DRS III - Araraquara;DRS - Araraquara;DRS - Araraquara;6ª RAJ - Ribeirão Preto;13ª CJ: ARARAQUARA;Comarca: AMERICO BRASILIENSE;AMERICO BRASILIENSE
+3546504;Santa Ernestina;RA Central;RG de Araraquara;-;-;DRS III - Araraquara;DRS - Araraquara;DRS - Araraquara;6ª RAJ - Ribeirão Preto;42ª CJ: JABOTICABAL;Comarca: TAQUARITINGA;TAQUARITINGA
+3546900;Santa Lúcia;RA Central;RG de Araraquara;-;-;DRS III - Araraquara;DRS - Araraquara;DRS - Araraquara;6ª RAJ - Ribeirão Preto;13ª CJ: ARARAQUARA;Comarca: AMERICO BRASILIENSE;AMERICO BRASILIENSE
+3548906;São Carlos;RA Central;RG de São Carlos;-;-;DRS III - Araraquara;DRS - Araraquara;DRS - Araraquara;6ª RAJ - Ribeirão Preto;12ª CJ: SÃO CARLOS;Comarca: SÃO CARLOS;SÃO CARLOS
+3552700;Tabatinga;RA Central;RG de Araraquara;-;-;DRS III - Araraquara;DRS - Araraquara;DRS - Araraquara;6ª RAJ - Ribeirão Preto;13ª CJ: ARARAQUARA;Comarca: IBITINGA;IBITINGA
+3553708;Taquaritinga;RA Central;RG de Araraquara;-;-;DRS III - Araraquara;DRS - Araraquara;DRS - Araraquara;6ª RAJ - Ribeirão Preto;42ª CJ: JABOTICABAL;Comarca: TAQUARITINGA;TAQUARITINGA
+3554755;Trabiju;RA Central;RG de Araraquara;-;-;DRS III - Araraquara;DRS - Araraquara;DRS - Araraquara;6ª RAJ - Ribeirão Preto;12ª CJ: SÃO CARLOS;Comarca: RIBEIRAO BONITO;RIBEIRAO BONITO
+3506359;Bertioga;RA de Santos;RG de Santos;RM da Baixada Santista;-;DRS IV - Baixada Santista;DRS - Baixada Santista;DRS - Baixada Santista;7ª RAJ - Santos;01ª CJ: SANTOS;Comarca: BERTIOGA;BERTIOGA
+3513504;Cubatão;RA de Santos;RG de Santos;RM da Baixada Santista;-;DRS IV - Baixada Santista;DRS - Baixada Santista;DRS - Baixada Santista;7ª RAJ - Santos;01ª CJ: SANTOS;Comarca: CUBATAO;CUBATAO
+3518701;Guarujá;RA de Santos;RG de Santos;RM da Baixada Santista;-;DRS IV - Baixada Santista;DRS - Baixada Santista;DRS - Baixada Santista;7ª RAJ - Santos;01ª CJ: SANTOS;Comarca: GUARUJA;GUARUJA
+3522109;Itanhaém;RA de Santos;RG de Santos;RM da Baixada Santista;-;DRS IV - Baixada Santista;DRS - Baixada Santista;DRS - Baixada Santista;7ª RAJ - Santos;56ª CJ: ITANHAÉM;Comarca: ITANHAÉM;ITANHAÉM
+3531100;Mongaguá;RA de Santos;RG de Santos;RM da Baixada Santista;-;DRS IV - Baixada Santista;DRS - Baixada Santista;DRS - Baixada Santista;7ª RAJ - Santos;56ª CJ: ITANHAÉM;Comarca: MONGAGUA;MONGAGUA
+3537602;Peruíbe;RA de Santos;RG de Santos;RM da Baixada Santista;-;DRS IV - Baixada Santista;DRS - Baixada Santista;DRS - Baixada Santista;7ª RAJ - Santos;56ª CJ: ITANHAÉM;Comarca: PERUIBE;PERUIBE
+3541000;Praia Grande;RA de Santos;RG de Santos;RM da Baixada Santista;-;DRS IV - Baixada Santista;DRS - Baixada Santista;DRS - Baixada Santista;7ª RAJ - Santos;01ª CJ: SANTOS;Comarca: PRAIA GRANDE;PRAIA GRANDE
+3548500;Santos;RA de Santos;RG de Santos;RM da Baixada Santista;-;DRS IV - Baixada Santista;DRS - Baixada Santista;DRS - Baixada Santista;7ª RAJ - Santos;01ª CJ: SANTOS;Comarca: SANTOS;SANTOS
+3551009;São Vicente;RA de Santos;RG de Santos;RM da Baixada Santista;-;DRS IV - Baixada Santista;DRS - Baixada Santista;DRS - Baixada Santista;7ª RAJ - Santos;01ª CJ: SANTOS;Comarca: SAO VICENTE;SAO VICENTE
+3500105;Adamantina;RA de Presidente Prudente;RG de Adamantina;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;30ª CJ: TUPÃ;Comarca: ADAMANTINA;ADAMANTINA
+3501400;Álvaro de Carvalho;RA de Marília;RG de Marília;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;31ª CJ: MARÍLIA;Comarca: GARCA;GARCA
+3501509;Alvinlândia;RA de Marília;RG de Marília;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;31ª CJ: MARÍLIA;Comarca: GARCA;GARCA
+3503356;Arco-Íris;RA de Marília;RG de Tupã;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;30ª CJ: TUPÃ;Comarca: TUPÃ;TUPÃ
+3504008;Assis;RA de Marília;RG de Assis;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;26ª CJ: ASSIS;Comarca: ASSIS;ASSIS
+3505807;Bastos;RA de Marília;RG de Tupã;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;30ª CJ: TUPÃ;Comarca: BASTOS;BASTOS
+3506300;Bernardino de Campos;RA de Marília;RG de Ourinhos;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;3ª RAJ - Bauru;25ª CJ: OURINHOS;Comarca: IPAUCU;IPAUCU
+3507209;Borá;RA de Marília;RG de Tupã;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;26ª CJ: ASSIS;Comarca: PARAGUACU PAULISTA;PARAGUACU PAULISTA
+3509809;Campos Novos Paulista;RA de Marília;RG de Assis;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;26ª CJ: ASSIS;Comarca: PALMITAL;PALMITAL
+3510005;Cândido Mota;RA de Marília;RG de Assis;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;26ª CJ: ASSIS;Comarca: CANDIDO MOTA;CANDIDO MOTA
+3510153;Canitar;RA de Marília;RG de Ourinhos;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;3ª RAJ - Bauru;25ª CJ: OURINHOS;Comarca: CHAVANTES;CHAVANTES
+3557204;Chavantes;RA de Marília;RG de Ourinhos;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;3ª RAJ - Bauru;25ª CJ: OURINHOS;Comarca: CHAVANTES;CHAVANTES
+3513306;Cruzália;RA de Marília;RG de Assis;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;26ª CJ: ASSIS;Comarca: MARACAI;MARACAI
+3514700;Echaporã;RA de Marília;RG de Marília;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;26ª CJ: ASSIS;Comarca: ASSIS;ASSIS
+3515194;Espírito Santo do Turvo;RA de Marília;RG de Ourinhos;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;3ª RAJ - Bauru;25ª CJ: OURINHOS;Comarca: SANTA CRUZ DO RIO PARDO;SANTA CRUZ DO RIO PARDO
+3515657;Fernão;RA de Marília;RG de Marília;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;31ª CJ: MARÍLIA;Comarca: GALIA;GALIA
+3516002;Flórida Paulista;RA de Presidente Prudente;RG de Adamantina;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;30ª CJ: TUPÃ;Comarca: FLORIDA PAULISTA;FLORIDA PAULISTA
+3516101;Florínia;RA de Marília;RG de Assis;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;26ª CJ: ASSIS;Comarca: ASSIS;ASSIS
+3516606;Gália;RA de Marília;RG de Marília;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;31ª CJ: MARÍLIA;Comarca: GALIA;GALIA
+3516705;Garça;RA de Marília;RG de Marília;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;31ª CJ: MARÍLIA;Comarca: GARCA;GARCA
+3517307;Guaimbê;RA de Bauru;RG de Lins;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;2ª RAJ - Araçatuba;35ª CJ: LINS;Comarca: GETULINA;GETULINA
+3518107;Guarantã;RA de Bauru;RG de Lins;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;2ª RAJ - Araçatuba;35ª CJ: LINS;Comarca: CAFELANDIA;CAFELANDIA
+3519006;Herculândia;RA de Marília;RG de Tupã;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;30ª CJ: TUPÃ;Comarca: TUPÃ;TUPÃ
+3519204;Iacri;RA de Marília;RG de Tupã;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;30ª CJ: TUPÃ;Comarca: BASTOS;BASTOS
+3519501;Ibirarema;RA de Marília;RG de Assis;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;26ª CJ: ASSIS;Comarca: PALMITAL;PALMITAL
+3520806;Inúbia Paulista;RA de Presidente Prudente;RG de Adamantina;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;30ª CJ: TUPÃ;Comarca: LUCELIA;LUCELIA
+3520905;Ipaussu;RA de Marília;RG de Ourinhos;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;3ª RAJ - Bauru;25ª CJ: OURINHOS;Comarca: IPAUCU;IPAUCU
+3525805;Júlio Mesquita;RA de Marília;RG de Marília;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;2ª RAJ - Araçatuba;35ª CJ: LINS;Comarca: CAFELANDIA;CAFELANDIA
+3527405;Lucélia;RA de Presidente Prudente;RG de Adamantina;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;30ª CJ: TUPÃ;Comarca: LUCELIA;LUCELIA
+3527801;Lupércio;RA de Marília;RG de Marília;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;31ª CJ: MARÍLIA;Comarca: GARCA;GARCA
+3527900;Lutécia;RA de Marília;RG de Assis;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;26ª CJ: ASSIS;Comarca: PARAGUACU PAULISTA;PARAGUACU PAULISTA
+3528809;Maracaí;RA de Marília;RG de Assis;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;26ª CJ: ASSIS;Comarca: MARACAI;MARACAI
+3528908;Mariápolis;RA de Presidente Prudente;RG de Adamantina;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;30ª CJ: TUPÃ;Comarca: ADAMANTINA;ADAMANTINA
+3529005;Marília;RA de Marília;RG de Marília;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;31ª CJ: MARÍLIA;Comarca: MARÍLIA;MARÍLIA
+3533700;Ocauçu;RA de Marília;RG de Marília;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;31ª CJ: MARÍLIA;Comarca: MARÍLIA;MARÍLIA
+3533809;Óleo;RA de Marília;RG de Ourinhos;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;3ª RAJ - Bauru;25ª CJ: OURINHOS;Comarca: PIRAJU;PIRAJU
+3534104;Oriente;RA de Marília;RG de Marília;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;31ª CJ: MARÍLIA;Comarca: POMPEIA;POMPEIA
+3534500;Oscar Bressane;RA de Marília;RG de Marília;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;26ª CJ: ASSIS;Comarca: PARAGUACU PAULISTA;PARAGUACU PAULISTA
+3534609;Osvaldo Cruz;RA de Presidente Prudente;RG de Adamantina;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;30ª CJ: TUPÃ;Comarca: OSVALDO CRUZ;OSVALDO CRUZ
+3534708;Ourinhos;RA de Marília;RG de Ourinhos;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;3ª RAJ - Bauru;25ª CJ: OURINHOS;Comarca: OURINHOS;OURINHOS
+3534906;Pacaembu;RA de Presidente Prudente;RG de Adamantina;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;29ª CJ: DRACENA;Comarca: PACAEMBU;PACAEMBU
+3535309;Palmital;RA de Marília;RG de Assis;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;26ª CJ: ASSIS;Comarca: PALMITAL;PALMITAL
+3535507;Paraguaçu Paulista;RA de Marília;RG de Assis;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;26ª CJ: ASSIS;Comarca: PARAGUACU PAULISTA;PARAGUACU PAULISTA
+3536000;Parapuã;RA de Marília;RG de Tupã;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;30ª CJ: TUPÃ;Comarca: OSVALDO CRUZ;OSVALDO CRUZ
+3537156;Pedrinhas Paulista;RA de Marília;RG de Assis;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;26ª CJ: ASSIS;Comarca: MARACAI;MARACAI
+3539707;Platina;RA de Marília;RG de Assis;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;26ª CJ: ASSIS;Comarca: PALMITAL;PALMITAL
+3540002;Pompéia;RA de Marília;RG de Marília;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;31ª CJ: MARÍLIA;Comarca: POMPEIA;POMPEIA
+3540853;Pracinha;RA de Presidente Prudente;RG de Adamantina;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;30ª CJ: TUPÃ;Comarca: LUCELIA;LUCELIA
+3541802;Queiroz;RA de Marília;RG de Tupã;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;30ª CJ: TUPÃ;Comarca: TUPÃ;TUPÃ
+3542008;Quintana;RA de Marília;RG de Tupã;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;31ª CJ: MARÍLIA;Comarca: POMPEIA;POMPEIA
+3543204;Ribeirão do Sul;RA de Marília;RG de Ourinhos;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;3ª RAJ - Bauru;25ª CJ: OURINHOS;Comarca: OURINHOS;OURINHOS
+3543808;Rinópolis;RA de Marília;RG de Tupã;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;30ª CJ: TUPÃ;Comarca: TUPÃ;TUPÃ
+3544707;Sagres;RA de Presidente Prudente;RG de Adamantina;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;30ª CJ: TUPÃ;Comarca: OSVALDO CRUZ;OSVALDO CRUZ
+3545100;Salmourão;RA de Presidente Prudente;RG de Adamantina;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;30ª CJ: TUPÃ;Comarca: OSVALDO CRUZ;OSVALDO CRUZ
+3545407;Salto Grande;RA de Marília;RG de Ourinhos;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;3ª RAJ - Bauru;25ª CJ: OURINHOS;Comarca: OURINHOS;OURINHOS
+3546405;Santa Cruz do Rio Pardo;RA de Marília;RG de Ourinhos;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;3ª RAJ - Bauru;25ª CJ: OURINHOS;Comarca: SANTA CRUZ DO RIO PARDO;SANTA CRUZ DO RIO PARDO
+3550506;São Pedro do Turvo;RA de Marília;RG de Ourinhos;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;3ª RAJ - Bauru;25ª CJ: OURINHOS;Comarca: SANTA CRUZ DO RIO PARDO;SANTA CRUZ DO RIO PARDO
+3553955;Tarumã;RA de Marília;RG de Assis;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;26ª CJ: ASSIS;Comarca: ASSIS;ASSIS
+3554607;Timburi;RA de Marília;RG de Ourinhos;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;3ª RAJ - Bauru;25ª CJ: OURINHOS;Comarca: PIRAJU;PIRAJU
+3555000;Tupã;RA de Marília;RG de Tupã;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;30ª CJ: TUPÃ;Comarca: TUPÃ;TUPÃ
+3555505;Ubirajara;RA de Bauru;RG de Bauru;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;3ª RAJ - Bauru;32ª CJ: BAURU;Comarca: DUARTINA;DUARTINA
+3556602;Vera Cruz;RA de Marília;RG de Marília;-;-;DRS IX - Marília;DRS - Marília;DRS - Marília;5ª RAJ - Presidente Prudente;31ª CJ: MARÍLIA;Comarca: MARÍLIA;MARÍLIA
+3500907;Altair;RA de Barretos;RG de Barretos;-;-;DRS V - Barretos;DRS - Barretos;DRS - Barretos;8ª RAJ - São José do Rio Preto;14ª CJ: BARRETOS;Comarca: OLIMPIA;OLIMPIA
+3505500;Barretos;RA de Barretos;RG de Barretos;-;-;DRS V - Barretos;DRS - Barretos;DRS - Barretos;8ª RAJ - São José do Rio Preto;14ª CJ: BARRETOS;Comarca: BARRETOS;BARRETOS
+3506102;Bebedouro;RA de Barretos;RG de Barretos;-;-;DRS V - Barretos;DRS - Barretos;DRS - Barretos;8ª RAJ - São José do Rio Preto;14ª CJ: BARRETOS;Comarca: BEBEDOURO;BEBEDOURO
+3509304;Cajobi;RA de Barretos;RG de Barretos;-;-;DRS V - Barretos;DRS - Barretos;DRS - Barretos;8ª RAJ - São José do Rio Preto;14ª CJ: BARRETOS;Comarca: OLIMPIA;OLIMPIA
+3512001;Colina;RA de Barretos;RG de Barretos;-;-;DRS V - Barretos;DRS - Barretos;DRS - Barretos;8ª RAJ - São José do Rio Preto;14ª CJ: BARRETOS;Comarca: COLINA;COLINA
+3512100;Colômbia;RA de Barretos;RG de Barretos;-;-;DRS V - Barretos;DRS - Barretos;DRS - Barretos;8ª RAJ - São José do Rio Preto;14ª CJ: BARRETOS;Comarca: BARRETOS;BARRETOS
+3517406;Guaíra;RA de Barretos;RG de Barretos;-;AU de Franca;DRS V - Barretos;DRS - Barretos;DRS - Barretos;8ª RAJ - São José do Rio Preto;14ª CJ: BARRETOS;Comarca: GUAIRA;GUAIRA
+3517901;Guaraci;RA de Barretos;RG de Barretos;-;-;DRS V - Barretos;DRS - Barretos;DRS - Barretos;8ª RAJ - São José do Rio Preto;14ª CJ: BARRETOS;Comarca: OLIMPIA;OLIMPIA
+3524204;Jaborandi;RA de Barretos;RG de Barretos;-;-;DRS V - Barretos;DRS - Barretos;DRS - Barretos;8ª RAJ - São José do Rio Preto;14ª CJ: BARRETOS;Comarca: COLINA;COLINA
+3531506;Monte Azul Paulista;RA de Barretos;RG de Barretos;-;-;DRS V - Barretos;DRS - Barretos;DRS - Barretos;8ª RAJ - São José do Rio Preto;14ª CJ: BARRETOS;Comarca: MONTE AZUL PAULISTA;MONTE AZUL PAULISTA
+3533908;Olímpia;RA de Barretos;RG de Barretos;-;-;DRS V - Barretos;DRS - Barretos;DRS - Barretos;8ª RAJ - São José do Rio Preto;14ª CJ: BARRETOS;Comarca: OLIMPIA;OLIMPIA
+3551900;Severínia;RA de Barretos;RG de Barretos;-;-;DRS V - Barretos;DRS - Barretos;DRS - Barretos;8ª RAJ - São José do Rio Preto;14ª CJ: BARRETOS;Comarca: OLIMPIA;OLIMPIA
+3553104;Taiaçu;RA de Barretos;RG de Barretos;-;-;DRS V - Barretos;DRS - Barretos;DRS - Barretos;6ª RAJ - Ribeirão Preto;42ª CJ: JABOTICABAL;Comarca: JABOTICABAL;JABOTICABAL
+3553203;Taiúva;RA de Barretos;RG de Barretos;RM de Ribeirão Preto;-;DRS V - Barretos;DRS - Barretos;DRS - Barretos;6ª RAJ - Ribeirão Preto;42ª CJ: JABOTICABAL;Comarca: JABOTICABAL;JABOTICABAL
+3553658;Taquaral;RA de Ribeirão Preto;RG de Ribeirão Preto;RM de Ribeirão Preto;-;DRS V - Barretos;DRS - Barretos;DRS - Barretos;6ª RAJ - Ribeirão Preto;42ª CJ: JABOTICABAL;Comarca: PITANGUEIRAS;PITANGUEIRAS
+3554409;Terra Roxa;RA de Barretos;RG de Barretos;-;-;DRS V - Barretos;DRS - Barretos;DRS - Barretos;8ª RAJ - São José do Rio Preto;14ª CJ: BARRETOS;Comarca: VIRADOURO;VIRADOURO
+3556800;Viradouro;RA de Barretos;RG de Barretos;-;-;DRS V - Barretos;DRS - Barretos;DRS - Barretos;8ª RAJ - São José do Rio Preto;14ª CJ: BARRETOS;Comarca: VIRADOURO;VIRADOURO
+3556909;Vista Alegre do Alto;RA de Barretos;RG de Barretos;-;-;DRS V - Barretos;DRS - Barretos;DRS - Barretos;6ª RAJ - Ribeirão Preto;42ª CJ: JABOTICABAL;Comarca: PIRANGI;PIRANGI
+3500550;Águas de Santa Bárbara;RA de Sorocaba;RG de Avaré;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;24ª CJ: AVARÉ;Comarca: CERQUEIRA CESAR;CERQUEIRA CESAR
+3500709;Agudos;RA de Bauru;RG de Bauru;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;32ª CJ: BAURU;Comarca: AGUDOS;AGUDOS
+3502309;Anhembi;RA de Sorocaba;RG de Botucatu;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;23ª CJ: BOTUCATU;Comarca: CONCHAS;CONCHAS
+3503109;Arandu;RA de Itapeva;RG de Itapeva;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;24ª CJ: AVARÉ;Comarca: AVARÉ;AVARÉ
+3503406;Arealva;RA de Bauru;RG de Bauru;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;32ª CJ: BAURU;Comarca: BAURU;BAURU
+3503604;Areiópolis;RA de Sorocaba;RG de Botucatu;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;23ª CJ: BOTUCATU;Comarca: SAO MANUEL;SAO MANUEL
+3504305;Avaí;RA de Bauru;RG de Bauru;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;32ª CJ: BAURU;Comarca: BAURU;BAURU
+3504503;Avaré;RA de Sorocaba;RG de Avaré;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;24ª CJ: AVARÉ;Comarca: AVARÉ;AVARÉ
+3504701;Balbinos;RA de Bauru;RG de Bauru;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;32ª CJ: BAURU;Comarca: PIRAJUI;PIRAJUI
+3505005;Barão de Antonina;RA de Itapeva;RG de Itapeva;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;10ª RAJ - Sorocaba;49ª CJ: ITAPEVA;Comarca: ITAPORANGA;ITAPORANGA
+3505203;Bariri;RA de Bauru;RG de Jaú;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;33ª CJ: JAÚ;Comarca: BARIRI;BARIRI
+3505302;Barra Bonita;RA de Bauru;RG de Jaú;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;33ª CJ: JAÚ;Comarca: BARRA BONITA;BARRA BONITA
+3506003;Bauru;RA de Bauru;RG de Bauru;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;32ª CJ: BAURU;Comarca: BAURU;BAURU
+3506805;Bocaina;RA de Bauru;RG de Jaú;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;33ª CJ: JAÚ;Comarca: JAÚ;JAÚ
+3506904;Bofete;RA de Sorocaba;RG de Botucatu;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;10ª RAJ - Sorocaba;22ª CJ: ITAPETININGA;Comarca: PORANGABA;PORANGABA
+3507308;Boracéia;RA de Bauru;RG de Jaú;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;33ª CJ: JAÚ;Comarca: PEDERNEIRAS;PEDERNEIRAS
+3507456;Borebi;RA de Bauru;RG de Bauru;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;32ª CJ: BAURU;Comarca: LENCOIS PAULISTA;LENCOIS PAULISTA
+3507506;Botucatu;RA de Sorocaba;RG de Botucatu;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;23ª CJ: BOTUCATU;Comarca: BOTUCATU;BOTUCATU
+3507902;Brotas;RA de Campinas;RG de Rio Claro;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;4ª RAJ - Campinas;09ª CJ: RIO CLARO;Comarca: BROTAS;BROTAS
+3508306;Cabrália Paulista;RA de Bauru;RG de Bauru;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;32ª CJ: BAURU;Comarca: DUARTINA;DUARTINA
+3508801;Cafelândia;RA de Bauru;RG de Lins;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;2ª RAJ - Araçatuba;35ª CJ: LINS;Comarca: CAFELANDIA;CAFELANDIA
+3511409;Cerqueira César;RA de Sorocaba;RG de Avaré;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;24ª CJ: AVARÉ;Comarca: CERQUEIRA CESAR;CERQUEIRA CESAR
+3512308;Conchas;RA de Sorocaba;RG de Botucatu;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;23ª CJ: BOTUCATU;Comarca: CONCHAS;CONCHAS
+3512605;Coronel Macedo;RA de Itapeva;RG de Itapeva;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;24ª CJ: AVARÉ;Comarca: TAQUARITUBA;TAQUARITUBA
+3514106;Dois Córregos;RA de Bauru;RG de Jaú;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;33ª CJ: JAÚ;Comarca: DOIS CORREGOS;DOIS CORREGOS
+3514502;Duartina;RA de Bauru;RG de Bauru;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;32ª CJ: BAURU;Comarca: DUARTINA;DUARTINA
+3515400;Fartura;RA de Itapeva;RG de Itapeva;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;24ª CJ: AVARÉ;Comarca: FARTURA;FARTURA
+3517000;Getulina;RA de Bauru;RG de Lins;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;2ª RAJ - Araçatuba;35ª CJ: LINS;Comarca: GETULINA;GETULINA
+3517208;Guaiçara;RA de Bauru;RG de Lins;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;2ª RAJ - Araçatuba;35ª CJ: LINS;Comarca: LINS;LINS
+3519105;Iacanga;RA de Bauru;RG de Bauru;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;6ª RAJ - Ribeirão Preto;13ª CJ: ARARAQUARA;Comarca: IACANGA;IACANGA
+3519253;Iaras;RA de Sorocaba;RG de Avaré;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;24ª CJ: AVARÉ;Comarca: CERQUEIRA CESAR;CERQUEIRA CESAR
+3520004;Igaraçu do Tietê;RA de Bauru;RG de Jaú;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;33ª CJ: JAÚ;Comarca: BARRA BONITA;BARRA BONITA
+3521804;Itaí;RA de Itapeva;RG de Itapeva;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;24ª CJ: AVARÉ;Comarca: ITAI;ITAI
+3522000;Itaju;RA de Bauru;RG de Jaú;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;33ª CJ: JAÚ;Comarca: BARIRI;BARIRI
+3522802;Itaporanga;RA de Itapeva;RG de Itapeva;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;10ª RAJ - Sorocaba;49ª CJ: ITAPEVA;Comarca: ITAPORANGA;ITAPORANGA
+3522901;Itapuí;RA de Bauru;RG de Jaú;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;33ª CJ: JAÚ;Comarca: JAÚ;JAÚ
+3523503;Itatinga;RA de Sorocaba;RG de Botucatu;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;23ª CJ: BOTUCATU;Comarca: ITATINGA;ITATINGA
+3525300;Jaú;RA de Bauru;RG de Jaú;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;33ª CJ: JAÚ;Comarca: JAÚ;JAÚ
+3526407;Laranjal Paulista;RA de Sorocaba;RG de Botucatu;-;AU de Piracicaba;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;4ª RAJ - Campinas;34ª CJ: PIRACICABA;Comarca: LARANJAL PAULISTA;LARANJAL PAULISTA
+3526803;Lençóis Paulista;RA de Bauru;RG de Bauru;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;32ª CJ: BAURU;Comarca: LENCOIS PAULISTA;LENCOIS PAULISTA
+3527108;Lins;RA de Bauru;RG de Lins;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;2ª RAJ - Araçatuba;35ª CJ: LINS;Comarca: LINS;LINS
+3527504;Lucianópolis;RA de Bauru;RG de Bauru;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;32ª CJ: BAURU;Comarca: DUARTINA;DUARTINA
+3528007;Macatuba;RA de Bauru;RG de Bauru;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;33ª CJ: JAÚ;Comarca: MACATUBA;MACATUBA
+3528601;Manduri;RA de Sorocaba;RG de Avaré;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;25ª CJ: OURINHOS;Comarca: PIRAJU;PIRAJU
+3529807;Mineiros do Tietê;RA de Bauru;RG de Jaú;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;33ª CJ: JAÚ;Comarca: JAÚ;JAÚ
+3535804;Paranapanema;RA de Itapeva;RG de Itapeva;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;24ª CJ: AVARÉ;Comarca: PARANAPANEMA;PARANAPANEMA
+3536109;Pardinho;RA de Sorocaba;RG de Botucatu;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;23ª CJ: BOTUCATU;Comarca: BOTUCATU;BOTUCATU
+3536570;Paulistânia;RA de Bauru;RG de Bauru;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;32ª CJ: BAURU;Comarca: AGUDOS;AGUDOS
+3536703;Pederneiras;RA de Bauru;RG de Bauru;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;33ª CJ: JAÚ;Comarca: PEDERNEIRAS;PEDERNEIRAS
+3537503;Pereiras;RA de Sorocaba;RG de Botucatu;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;23ª CJ: BOTUCATU;Comarca: CONCHAS;CONCHAS
+3538808;Piraju;RA de Itapeva;RG de Itapeva;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;25ª CJ: OURINHOS;Comarca: PIRAJU;PIRAJU
+3538907;Pirajuí;RA de Bauru;RG de Bauru;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;32ª CJ: BAURU;Comarca: PIRAJUI;PIRAJUI
+3539400;Piratininga;RA de Bauru;RG de Bauru;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;32ª CJ: BAURU;Comarca: PIRATININGA;PIRATININGA
+3540101;Pongaí;RA de Bauru;RG de Lins;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;32ª CJ: BAURU;Comarca: PIRAJUI;PIRAJUI
+3540507;Porangaba;RA de Sorocaba;RG de Botucatu;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;10ª RAJ - Sorocaba;22ª CJ: ITAPETININGA;Comarca: PORANGABA;PORANGABA
+3541059;Pratânia;RA de Sorocaba;RG de Botucatu;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;23ª CJ: BOTUCATU;Comarca: SAO MANUEL;SAO MANUEL
+3541109;Presidente Alves;RA de Bauru;RG de Bauru;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;32ª CJ: BAURU;Comarca: PIRAJUI;PIRAJUI
+3541604;Promissão;RA de Bauru;RG de Lins;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;2ª RAJ - Araçatuba;35ª CJ: LINS;Comarca: PROMISSAO;PROMISSAO
+3542503;Reginópolis;RA de Bauru;RG de Bauru;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;32ª CJ: BAURU;Comarca: PIRAJUI;PIRAJUI
+3544608;Sabino;RA de Bauru;RG de Lins;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;2ª RAJ - Araçatuba;35ª CJ: LINS;Comarca: LINS;LINS
+3550100;São Manuel;RA de Sorocaba;RG de Botucatu;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;23ª CJ: BOTUCATU;Comarca: SAO MANUEL;SAO MANUEL
+3551207;Sarutaiá;RA de Itapeva;RG de Itapeva;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;25ª CJ: OURINHOS;Comarca: PIRAJU;PIRAJU
+3553005;Taguaí;RA de Itapeva;RG de Itapeva;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;24ª CJ: AVARÉ;Comarca: FARTURA;FARTURA
+3553807;Taquarituba;RA de Itapeva;RG de Itapeva;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;24ª CJ: AVARÉ;Comarca: TAQUARITUBA;TAQUARITUBA
+3554201;Tejupá;RA de Itapeva;RG de Itapeva;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;25ª CJ: OURINHOS;Comarca: PIRAJU;PIRAJU
+3554656;Torre de Pedra;RA de Sorocaba;RG de Botucatu;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;10ª RAJ - Sorocaba;22ª CJ: ITAPETININGA;Comarca: PORANGABA;PORANGABA
+3554706;Torrinha;RA de Campinas;RG de Rio Claro;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;4ª RAJ - Campinas;09ª CJ: RIO CLARO;Comarca: BROTAS;BROTAS
+3555901;Uru;RA de Bauru;RG de Lins;-;-;DRS VI - Bauru;DRS - Bauru;DRS - Bauru;3ª RAJ - Bauru;32ª CJ: BAURU;Comarca: PIRAJUI;PIRAJUI
+3500501;Águas de Lindóia;RA de Campinas;RG de Bragança Paulista;-;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;54ª CJ: AMPARO;Comarca: AGUAS DE LINDOIA;AGUAS DE LINDOIA
+3501608;Americana;RA de Campinas;RG de Campinas;RM de Campinas;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;53ª CJ: AMERICANA;Comarca: AMERICANA;AMERICANA
+3501905;Amparo;RA de Campinas;RG de Bragança Paulista;-;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;54ª CJ: AMPARO;Comarca: AMPARO;AMPARO
+3503802;Artur Nogueira;RA de Campinas;RG de Campinas;RM de Campinas;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;07ª CJ: MOGI MIRIM;Comarca: ARTUR NOGUEIRA;ARTUR NOGUEIRA
+3504107;Atibaia;RA de Campinas;RG de Bragança Paulista;-;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;06ª CJ: BRAGANÇA PAULISTA;Comarca: ATIBAIA;ATIBAIA
+3507100;Bom Jesus dos Perdões;RA de Campinas;RG de Bragança Paulista;-;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;06ª CJ: BRAGANÇA PAULISTA;Comarca: NAZARE PAULISTA;NAZARE PAULISTA
+3507605;Bragança Paulista;RA de Campinas;RG de Bragança Paulista;-;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;06ª CJ: BRAGANÇA PAULISTA;Comarca: BRAGANÇA PAULISTA;BRAGANÇA PAULISTA
+3508405;Cabreúva;RA de Campinas;RG de Jundiaí;-;AU de Jundiaí;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;10ª RAJ - Sorocaba;20ª CJ: ITU;Comarca: CABREUVA;CABREUVA
+3509502;Campinas;RA de Campinas;RG de Campinas;RM de Campinas;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;08ª CJ: CAMPINAS;Comarca: CAMPINAS;CAMPINAS
+3509601;Campo Limpo Paulista;RA de Campinas;RG de Jundiaí;-;AU de Jundiaí;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;05ª CJ: JUNDIAÍ;Comarca: CAMPO LIMPO PAULISTA;CAMPO LIMPO PAULISTA
+3512803;Cosmópolis;RA de Campinas;RG de Campinas;RM de Campinas;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;08ª CJ: CAMPINAS;Comarca: COSMOPOLIS;COSMOPOLIS
+3519055;Holambra;RA de Campinas;RG de Campinas;RM de Campinas;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;07ª CJ: MOGI MIRIM;Comarca: ARTUR NOGUEIRA;ARTUR NOGUEIRA
+3519071;Hortolândia;RA de Campinas;RG de Campinas;RM de Campinas;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;53ª CJ: AMERICANA;Comarca: HORTOLANDIA;HORTOLANDIA
+3520509;Indaiatuba;RA de Campinas;RG de Campinas;RM de Campinas;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;10ª RAJ - Sorocaba;20ª CJ: ITU;Comarca: INDAIATUBA;INDAIATUBA
+3523404;Itatiba;RA de Campinas;RG de Jundiaí;RM de Campinas;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;05ª CJ: JUNDIAÍ;Comarca: ITATIBA;ITATIBA
+3524006;Itupeva;RA de Campinas;RG de Jundiaí;-;AU de Jundiaí;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;05ª CJ: JUNDIAÍ;Comarca: ITUPEVA;ITUPEVA
+3524709;Jaguariúna;RA de Campinas;RG de Campinas;RM de Campinas;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;54ª CJ: AMPARO;Comarca: JAGUARIUNA;JAGUARIUNA
+3525201;Jarinu;RA de Campinas;RG de Jundiaí;-;AU de Jundiaí;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;06ª CJ: BRAGANÇA PAULISTA;Comarca: JARINU;JARINU
+3525508;Joanópolis;RA de Campinas;RG de Bragança Paulista;-;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;06ª CJ: BRAGANÇA PAULISTA;Comarca: PIRACAIA;PIRACAIA
+3525904;Jundiaí;RA de Campinas;RG de Jundiaí;-;AU de Jundiaí;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;05ª CJ: JUNDIAÍ;Comarca: JUNDIAÍ;JUNDIAÍ
+3527009;Lindóia;RA de Campinas;RG de Bragança Paulista;-;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;54ª CJ: AMPARO;Comarca: AGUAS DE LINDOIA;AGUAS DE LINDOIA
+3527306;Louveira;RA de Campinas;RG de Jundiaí;-;AU de Jundiaí;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;05ª CJ: JUNDIAÍ;Comarca: LOUVEIRA;LOUVEIRA
+3531209;Monte Alegre do Sul;RA de Campinas;RG de Bragança Paulista;-;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;54ª CJ: AMPARO;Comarca: AMPARO;AMPARO
+3531803;Monte Mor;RA de Campinas;RG de Campinas;RM de Campinas;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;34ª CJ: PIRACICABA;Comarca: MONTE MOR;MONTE MOR
+3532009;Morungaba;RA de Campinas;RG de Jundiaí;RM de Campinas;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;05ª CJ: JUNDIAÍ;Comarca: ITATIBA;ITATIBA
+3532405;Nazaré Paulista;RA de Campinas;RG de Bragança Paulista;-;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;06ª CJ: BRAGANÇA PAULISTA;Comarca: NAZARE PAULISTA;NAZARE PAULISTA
+3533403;Nova Odessa;RA de Campinas;RG de Campinas;RM de Campinas;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;53ª CJ: AMERICANA;Comarca: NOVA ODESSA;NOVA ODESSA
+3536505;Paulínia;RA de Campinas;RG de Campinas;RM de Campinas;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;08ª CJ: CAMPINAS;Comarca: PAULINIA;PAULINIA
+3536802;Pedra Bela;RA de Campinas;RG de Bragança Paulista;-;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;06ª CJ: BRAGANÇA PAULISTA;Comarca: BRAGANÇA PAULISTA;BRAGANÇA PAULISTA
+3537107;Pedreira;RA de Campinas;RG de Campinas;RM de Campinas;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;54ª CJ: AMPARO;Comarca: PEDREIRA;PEDREIRA
+3538204;Pinhalzinho;RA de Campinas;RG de Bragança Paulista;-;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;06ª CJ: BRAGANÇA PAULISTA;Comarca: PINHALZINHO;PINHALZINHO
+3538600;Piracaia;RA de Campinas;RG de Bragança Paulista;-;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;06ª CJ: BRAGANÇA PAULISTA;Comarca: PIRACAIA;PIRACAIA
+3545803;Santa Bárbara d'Oeste;RA de Campinas;RG de Campinas;RM de Campinas;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;53ª CJ: AMERICANA;Comarca: SANTA BARBARA D OESTE;SANTA BARBARA D OESTE
+3548005;Santo Antônio de Posse;RA de Campinas;RG de Campinas;RM de Campinas;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;54ª CJ: AMPARO;Comarca: JAGUARIUNA;JAGUARIUNA
+3551603;Serra Negra;RA de Campinas;RG de Bragança Paulista;-;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;54ª CJ: AMPARO;Comarca: SERRA NEGRA;SERRA NEGRA
+3552106;Socorro;RA de Campinas;RG de Bragança Paulista;-;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;54ª CJ: AMPARO;Comarca: SOCORRO;SOCORRO
+3552403;Sumaré;RA de Campinas;RG de Campinas;RM de Campinas;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;53ª CJ: AMERICANA;Comarca: SUMARE;SUMARE
+3554953;Tuiuti;RA de Campinas;RG de Bragança Paulista;-;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;06ª CJ: BRAGANÇA PAULISTA;Comarca: BRAGANÇA PAULISTA;BRAGANÇA PAULISTA
+3556206;Valinhos;RA de Campinas;RG de Campinas;RM de Campinas;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;08ª CJ: CAMPINAS;Comarca: VALINHOS;VALINHOS
+3556354;Vargem;RA de Campinas;RG de Bragança Paulista;-;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;06ª CJ: BRAGANÇA PAULISTA;Comarca: BRAGANÇA PAULISTA;BRAGANÇA PAULISTA
+3556503;Várzea Paulista;RA de Campinas;RG de Jundiaí;-;AU de Jundiaí;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;05ª CJ: JUNDIAÍ;Comarca: VARZEA PAULISTA;VARZEA PAULISTA
+3556701;Vinhedo;RA de Campinas;RG de Campinas;RM de Campinas;-;DRS VII - Campinas;DRS - Campinas;DRS - Campinas;4ª RAJ - Campinas;05ª CJ: JUNDIAÍ;Comarca: VINHEDO;VINHEDO
+3503000;Aramina;RA de Franca;RG de Franca;-;AU de Franca;DRS VIII - Franca;DRS - Franca;DRS - Franca;6ª RAJ - Ribeirão Preto;40ª CJ: ITUVERAVA;Comarca: IGARAPAVA;IGARAPAVA
+3508207;Buritizal;RA de Franca;RG de Franca;-;AU de Franca;DRS VIII - Franca;DRS - Franca;DRS - Franca;6ª RAJ - Ribeirão Preto;40ª CJ: ITUVERAVA;Comarca: IGARAPAVA;IGARAPAVA
+3513207;Cristais Paulista;RA de Franca;RG de Franca;-;AU de Franca;DRS VIII - Franca;DRS - Franca;DRS - Franca;6ª RAJ - Ribeirão Preto;38ª CJ: FRANCA;Comarca: FRANCA;FRANCA
+3516200;Franca;RA de Franca;RG de Franca;-;AU de Franca;DRS VIII - Franca;DRS - Franca;DRS - Franca;6ª RAJ - Ribeirão Preto;38ª CJ: FRANCA;Comarca: FRANCA;FRANCA
+3517703;Guará;RA de Franca;RG de Franca;-;AU de Franca;DRS VIII - Franca;DRS - Franca;DRS - Franca;6ª RAJ - Ribeirão Preto;40ª CJ: ITUVERAVA;Comarca: GUARA;GUARA
+3520103;Igarapava;RA de Franca;RG de Franca;-;AU de Franca;DRS VIII - Franca;DRS - Franca;DRS - Franca;6ª RAJ - Ribeirão Preto;40ª CJ: ITUVERAVA;Comarca: IGARAPAVA;IGARAPAVA
+3521309;Ipuã;RA de Franca;RG de São Joaquim da Barra;-;AU de Franca;DRS VIII - Franca;DRS - Franca;DRS - Franca;6ª RAJ - Ribeirão Preto;40ª CJ: ITUVERAVA;Comarca: IPUA;IPUA
+3523701;Itirapuã;RA de Franca;RG de Franca;-;AU de Franca;DRS VIII - Franca;DRS - Franca;DRS - Franca;6ª RAJ - Ribeirão Preto;38ª CJ: FRANCA;Comarca: PATROCINIO PAULISTA;PATROCINIO PAULISTA
+3524105;Ituverava;RA de Franca;RG de Franca;-;AU de Franca;DRS VIII - Franca;DRS - Franca;DRS - Franca;6ª RAJ - Ribeirão Preto;40ª CJ: ITUVERAVA;Comarca: ITUVERAVA;ITUVERAVA
+3525409;Jeriquara;RA de Franca;RG de Franca;-;AU de Franca;DRS VIII - Franca;DRS - Franca;DRS - Franca;6ª RAJ - Ribeirão Preto;38ª CJ: FRANCA;Comarca: PEDREGULHO;PEDREGULHO
+3529708;Miguelópolis;RA de Franca;RG de Franca;-;AU de Franca;DRS VIII - Franca;DRS - Franca;DRS - Franca;6ª RAJ - Ribeirão Preto;40ª CJ: ITUVERAVA;Comarca: MIGUELOPOLIS;MIGUELOPOLIS
+3531902;Morro Agudo;RA de Franca;RG de São Joaquim da Barra;RM de Ribeirão Preto;-;DRS VIII - Franca;DRS - Franca;DRS - Franca;6ª RAJ - Ribeirão Preto;39ª CJ: BATATAIS;Comarca: MORRO AGUDO;MORRO AGUDO
+3533601;Nuporanga;RA de Franca;RG de São Joaquim da Barra;RM de Ribeirão Preto;-;DRS VIII - Franca;DRS - Franca;DRS - Franca;6ª RAJ - Ribeirão Preto;39ª CJ: BATATAIS;Comarca: NUPORANGA;NUPORANGA
+3534302;Orlândia;RA de Franca;RG de São Joaquim da Barra;RM de Ribeirão Preto;-;DRS VIII - Franca;DRS - Franca;DRS - Franca;6ª RAJ - Ribeirão Preto;39ª CJ: BATATAIS;Comarca: ORLANDIA;ORLANDIA
+3536307;Patrocínio Paulista;RA de Franca;RG de Franca;-;AU de Franca;DRS VIII - Franca;DRS - Franca;DRS - Franca;6ª RAJ - Ribeirão Preto;38ª CJ: FRANCA;Comarca: PATROCINIO PAULISTA;PATROCINIO PAULISTA
+3537008;Pedregulho;RA de Franca;RG de Franca;-;AU de Franca;DRS VIII - Franca;DRS - Franca;DRS - Franca;6ª RAJ - Ribeirão Preto;38ª CJ: FRANCA;Comarca: PEDREGULHO;PEDREGULHO
+3542701;Restinga;RA de Franca;RG de Franca;-;AU de Franca;DRS VIII - Franca;DRS - Franca;DRS - Franca;6ª RAJ - Ribeirão Preto;38ª CJ: FRANCA;Comarca: FRANCA;FRANCA
+3543105;Ribeirão Corrente;RA de Franca;RG de Franca;-;AU de Franca;DRS VIII - Franca;DRS - Franca;DRS - Franca;6ª RAJ - Ribeirão Preto;38ª CJ: FRANCA;Comarca: FRANCA;FRANCA
+3543600;Rifaina;RA de Franca;RG de Franca;-;AU de Franca;DRS VIII - Franca;DRS - Franca;DRS - Franca;6ª RAJ - Ribeirão Preto;38ª CJ: FRANCA;Comarca: PEDREGULHO;PEDREGULHO
+3544905;Sales Oliveira;RA de Franca;RG de São Joaquim da Barra;RM de Ribeirão Preto;-;DRS VIII - Franca;DRS - Franca;DRS - Franca;6ª RAJ - Ribeirão Preto;39ª CJ: BATATAIS;Comarca: NUPORANGA;NUPORANGA
+3549409;São Joaquim da Barra;RA de Franca;RG de São Joaquim da Barra;-;AU de Franca;DRS VIII - Franca;DRS - Franca;DRS - Franca;6ª RAJ - Ribeirão Preto;40ª CJ: ITUVERAVA;Comarca: SAO JOAQUIM DA BARRA;SAO JOAQUIM DA BARRA
+3549508;São José da Bela Vista;RA de Franca;RG de Franca;-;AU de Franca;DRS VIII - Franca;DRS - Franca;DRS - Franca;6ª RAJ - Ribeirão Preto;38ª CJ: FRANCA;Comarca: FRANCA;FRANCA
+3500600;Águas de São Pedro;RA de Campinas;RG de Piracicaba;-;AU de Piracicaba;DRS X - Piracicaba;DRS - Piracicaba;DRS - Piracicaba;4ª RAJ - Campinas;34ª CJ: PIRACICABA;Comarca: SÃO PEDRO;SÃO PEDRO
+3502002;Analândia;RA de Campinas;RG de Rio Claro;-;AU de Piracicaba;DRS X - Piracicaba;DRS - Piracicaba;DRS - Piracicaba;4ª RAJ - Campinas;09ª CJ: RIO CLARO;Comarca: ITIRAPINA;ITIRAPINA
+3503307;Araras;RA de Campinas;RG de Limeira;-;AU de Piracicaba;DRS X - Piracicaba;DRS - Piracicaba;DRS - Piracicaba;4ª RAJ - Campinas;10ª CJ: LIMEIRA;Comarca: ARARAS;ARARAS
+3510401;Capivari;RA de Campinas;RG de Piracicaba;-;AU de Piracicaba;DRS X - Piracicaba;DRS - Piracicaba;DRS - Piracicaba;4ª RAJ - Campinas;34ª CJ: PIRACICABA;Comarca: CAPIVARI;CAPIVARI
+3511706;Charqueada;RA de Campinas;RG de Piracicaba;-;AU de Piracicaba;DRS X - Piracicaba;DRS - Piracicaba;DRS - Piracicaba;4ª RAJ - Campinas;34ª CJ: PIRACICABA;Comarca: PIRACICABA;PIRACICABA
+3512209;Conchal;RA de Campinas;RG de Limeira;-;AU de Piracicaba;DRS X - Piracicaba;DRS - Piracicaba;DRS - Piracicaba;4ª RAJ - Campinas;07ª CJ: MOGI MIRIM;Comarca: CONCHAL;CONCHAL
+3512407;Cordeirópolis;RA de Campinas;RG de Limeira;-;AU de Piracicaba;DRS X - Piracicaba;DRS - Piracicaba;DRS - Piracicaba;4ª RAJ - Campinas;10ª CJ: LIMEIRA;Comarca: CORDEIROPOLIS;CORDEIROPOLIS
+3512704;Corumbataí;RA de Campinas;RG de Rio Claro;-;AU de Piracicaba;DRS X - Piracicaba;DRS - Piracicaba;DRS - Piracicaba;4ª RAJ - Campinas;09ª CJ: RIO CLARO;Comarca: RIO CLARO;RIO CLARO
+3514908;Elias Fausto;RA de Campinas;RG de Piracicaba;-;AU de Piracicaba;DRS X - Piracicaba;DRS - Piracicaba;DRS - Piracicaba;4ª RAJ - Campinas;34ª CJ: PIRACICABA;Comarca: MONTE MOR;MONTE MOR
+3515152;Engenheiro Coelho;RA de Campinas;RG de Campinas;RM de Campinas;-;DRS X - Piracicaba;DRS - Piracicaba;DRS - Piracicaba;4ª RAJ - Campinas;07ª CJ: MOGI MIRIM;Comarca: ARTUR NOGUEIRA;ARTUR NOGUEIRA
+3521101;Ipeúna;RA de Campinas;RG de Rio Claro;-;AU de Piracicaba;DRS X - Piracicaba;DRS - Piracicaba;DRS - Piracicaba;4ª RAJ - Campinas;09ª CJ: RIO CLARO;Comarca: RIO CLARO;RIO CLARO
+3521408;Iracemápolis;RA de Campinas;RG de Limeira;-;AU de Piracicaba;DRS X - Piracicaba;DRS - Piracicaba;DRS - Piracicaba;4ª RAJ - Campinas;10ª CJ: LIMEIRA;Comarca: LIMEIRA;LIMEIRA
+3523602;Itirapina;RA de Campinas;RG de Rio Claro;-;-;DRS X - Piracicaba;DRS - Piracicaba;DRS - Piracicaba;4ª RAJ - Campinas;09ª CJ: RIO CLARO;Comarca: ITIRAPINA;ITIRAPINA
+3526704;Leme;RA de Campinas;RG de Limeira;-;AU de Piracicaba;DRS X - Piracicaba;DRS - Piracicaba;DRS - Piracicaba;4ª RAJ - Campinas;11ª CJ: PIRASSUNUNGA;Comarca: LEME;LEME
+3526902;Limeira;RA de Campinas;RG de Limeira;-;AU de Piracicaba;DRS X - Piracicaba;DRS - Piracicaba;DRS - Piracicaba;4ª RAJ - Campinas;10ª CJ: LIMEIRA;Comarca: LIMEIRA;LIMEIRA
+3530904;Mombuca;RA de Campinas;RG de Piracicaba;-;AU de Piracicaba;DRS X - Piracicaba;DRS - Piracicaba;DRS - Piracicaba;4ª RAJ - Campinas;34ª CJ: PIRACICABA;Comarca: CAPIVARI;CAPIVARI
+3538709;Piracicaba;RA de Campinas;RG de Piracicaba;-;AU de Piracicaba;DRS X - Piracicaba;DRS - Piracicaba;DRS - Piracicaba;4ª RAJ - Campinas;34ª CJ: PIRACICABA;Comarca: PIRACICABA;PIRACICABA
+3539301;Pirassununga;RA de Campinas;RG de Limeira;-;-;DRS X - Piracicaba;DRS - Piracicaba;DRS - Piracicaba;4ª RAJ - Campinas;11ª CJ: PIRASSUNUNGA;Comarca: PIRASSUNUNGA;PIRASSUNUNGA
+3542107;Rafard;RA de Campinas;RG de Piracicaba;-;AU de Piracicaba;DRS X - Piracicaba;DRS - Piracicaba;DRS - Piracicaba;4ª RAJ - Campinas;34ª CJ: PIRACICABA;Comarca: CAPIVARI;CAPIVARI
+3543907;Rio Claro;RA de Campinas;RG de Rio Claro;-;AU de Piracicaba;DRS X - Piracicaba;DRS - Piracicaba;DRS - Piracicaba;4ª RAJ - Campinas;09ª CJ: RIO CLARO;Comarca: RIO CLARO;RIO CLARO
+3544004;Rio das Pedras;RA de Campinas;RG de Piracicaba;-;AU de Piracicaba;DRS X - Piracicaba;DRS - Piracicaba;DRS - Piracicaba;4ª RAJ - Campinas;34ª CJ: PIRACICABA;Comarca: RIO DAS PEDRAS;RIO DAS PEDRAS
+3545159;Saltinho;RA de Campinas;RG de Piracicaba;-;AU de Piracicaba;DRS X - Piracicaba;DRS - Piracicaba;DRS - Piracicaba;4ª RAJ - Campinas;34ª CJ: PIRACICABA;Comarca: PIRACICABA;PIRACICABA
+3546207;Santa Cruz da Conceição;RA de Campinas;RG de Limeira;-;-;DRS X - Piracicaba;DRS - Piracicaba;DRS - Piracicaba;4ª RAJ - Campinas;11ª CJ: PIRASSUNUNGA;Comarca: LEME;LEME
+3546702;Santa Gertrudes;RA de Campinas;RG de Rio Claro;-;AU de Piracicaba;DRS X - Piracicaba;DRS - Piracicaba;DRS - Piracicaba;4ª RAJ - Campinas;09ª CJ: RIO CLARO;Comarca: RIO CLARO;RIO CLARO
+3547007;Santa Maria da Serra;RA de Campinas;RG de Piracicaba;-;AU de Piracicaba;DRS X - Piracicaba;DRS - Piracicaba;DRS - Piracicaba;4ª RAJ - Campinas;34ª CJ: PIRACICABA;Comarca: SÃO PEDRO;SÃO PEDRO
+3550407;São Pedro;RA de Campinas;RG de Piracicaba;-;AU de Piracicaba;DRS X - Piracicaba;DRS - Piracicaba;DRS - Piracicaba;4ª RAJ - Campinas;34ª CJ: PIRACICABA;Comarca: SÃO PEDRO;SÃO PEDRO
+3500808;Alfredo Marcondes;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;27ª CJ: PRESIDENTE PRUDENTE;Comarca: PRESIDENTE PRUDENTE;PRESIDENTE PRUDENTE
+3501301;Álvares Machado;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;27ª CJ: PRESIDENTE PRUDENTE;Comarca: PRESIDENTE PRUDENTE;PRESIDENTE PRUDENTE
+3502408;Anhumas;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;27ª CJ: PRESIDENTE PRUDENTE;Comarca: PRESIDENTE PRUDENTE;PRESIDENTE PRUDENTE
+3508900;Caiabu;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;27ª CJ: PRESIDENTE PRUDENTE;Comarca: REGENTE FEIJO;REGENTE FEIJO
+3509106;Caiuá;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;28ª CJ: PRESIDENTE VENCESLAU;Comarca: PRESIDENTE EPITACIO;PRESIDENTE EPITACIO
+3514403;Dracena;RA de Presidente Prudente;RG de Dracena;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;29ª CJ: DRACENA;Comarca: DRACENA;DRACENA
+3515129;Emilianópolis;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;27ª CJ: PRESIDENTE PRUDENTE;Comarca: PRESIDENTE BERNARDES;PRESIDENTE BERNARDES
+3515301;Estrela do Norte;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;27ª CJ: PRESIDENTE PRUDENTE;Comarca: PIRAPOZINHO;PIRAPOZINHO
+3515350;Euclides da Cunha Paulista;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;28ª CJ: PRESIDENTE VENCESLAU;Comarca: TEODORO SAMPAIO;TEODORO SAMPAIO
+3515806;Flora Rica;RA de Presidente Prudente;RG de Adamantina;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;29ª CJ: DRACENA;Comarca: PACAEMBU;PACAEMBU
+3519907;Iepê;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;27ª CJ: PRESIDENTE PRUDENTE;Comarca: IEPE;IEPE
+3520608;Indiana;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;27ª CJ: PRESIDENTE PRUDENTE;Comarca: MARTINOPOLIS;MARTINOPOLIS
+3521606;Irapuru;RA de Presidente Prudente;RG de Adamantina;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;29ª CJ: DRACENA;Comarca: PACAEMBU;PACAEMBU
+3525607;João Ramalho;RA de Marília;RG de Tupã;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;26ª CJ: ASSIS;Comarca: QUATA;QUATA
+3526001;Junqueirópolis;RA de Presidente Prudente;RG de Dracena;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;29ª CJ: DRACENA;Comarca: JUNQUEIROPOLIS;JUNQUEIROPOLIS
+3528700;Marabá Paulista;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;28ª CJ: PRESIDENTE VENCESLAU;Comarca: PRESIDENTE VENCESLAU;PRESIDENTE VENCESLAU
+3529203;Martinópolis;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;27ª CJ: PRESIDENTE PRUDENTE;Comarca: MARTINOPOLIS;MARTINOPOLIS
+3530201;Mirante do Paranapanema;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;28ª CJ: PRESIDENTE VENCESLAU;Comarca: MIRANTE DO PARANAPANEMA;MIRANTE DO PARANAPANEMA
+3531605;Monte Castelo;RA de Presidente Prudente;RG de Dracena;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;29ª CJ: DRACENA;Comarca: TUPI PAULISTA;TUPI PAULISTA
+3532157;Nantes;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;27ª CJ: PRESIDENTE PRUDENTE;Comarca: IEPE;IEPE
+3532207;Narandiba;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;27ª CJ: PRESIDENTE PRUDENTE;Comarca: PIRAPOZINHO;PIRAPOZINHO
+3533106;Nova Guataporanga;RA de Presidente Prudente;RG de Dracena;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;29ª CJ: DRACENA;Comarca: TUPI PAULISTA;TUPI PAULISTA
+3534807;Ouro Verde;RA de Presidente Prudente;RG de Dracena;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;29ª CJ: DRACENA;Comarca: DRACENA;DRACENA
+3535408;Panorama;RA de Presidente Prudente;RG de Dracena;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;29ª CJ: DRACENA;Comarca: PANORAMA;PANORAMA
+3536406;Paulicéia;RA de Presidente Prudente;RG de Dracena;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;29ª CJ: DRACENA;Comarca: PANORAMA;PANORAMA
+3538303;Piquerobi;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;28ª CJ: PRESIDENTE VENCESLAU;Comarca: SANTO ANASTACIO;SANTO ANASTACIO
+3539202;Pirapozinho;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;27ª CJ: PRESIDENTE PRUDENTE;Comarca: PIRAPOZINHO;PIRAPOZINHO
+3541208;Presidente Bernardes;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;27ª CJ: PRESIDENTE PRUDENTE;Comarca: PRESIDENTE BERNARDES;PRESIDENTE BERNARDES
+3541307;Presidente Epitácio;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;28ª CJ: PRESIDENTE VENCESLAU;Comarca: PRESIDENTE EPITACIO;PRESIDENTE EPITACIO
+3541406;Presidente Prudente;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;27ª CJ: PRESIDENTE PRUDENTE;Comarca: PRESIDENTE PRUDENTE;PRESIDENTE PRUDENTE
+3541505;Presidente Venceslau;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;28ª CJ: PRESIDENTE VENCESLAU;Comarca: PRESIDENTE VENCESLAU;PRESIDENTE VENCESLAU
+3541703;Quatá;RA de Marília;RG de Tupã;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;26ª CJ: ASSIS;Comarca: QUATA;QUATA
+3542206;Rancharia;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;27ª CJ: PRESIDENTE PRUDENTE;Comarca: RANCHARIA;RANCHARIA
+3542404;Regente Feijó;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;27ª CJ: PRESIDENTE PRUDENTE;Comarca: REGENTE FEIJO;REGENTE FEIJO
+3543238;Ribeirão dos Índios;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;28ª CJ: PRESIDENTE VENCESLAU;Comarca: SANTO ANASTACIO;SANTO ANASTACIO
+3544251;Rosana;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;28ª CJ: PRESIDENTE VENCESLAU;Comarca: ROSANA;ROSANA
+3545506;Sandovalina;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;27ª CJ: PRESIDENTE PRUDENTE;Comarca: PIRAPOZINHO;PIRAPOZINHO
+3547106;Santa Mercedes;RA de Presidente Prudente;RG de Dracena;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;29ª CJ: DRACENA;Comarca: PANORAMA;PANORAMA
+3547700;Santo Anastácio;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;28ª CJ: PRESIDENTE VENCESLAU;Comarca: SANTO ANASTACIO;SANTO ANASTACIO
+3548302;Santo Expedito;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;27ª CJ: PRESIDENTE PRUDENTE;Comarca: PRESIDENTE PRUDENTE;PRESIDENTE PRUDENTE
+3549300;São João do Pau d'Alho;RA de Presidente Prudente;RG de Dracena;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;29ª CJ: DRACENA;Comarca: TUPI PAULISTA;TUPI PAULISTA
+3552908;Taciba;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;27ª CJ: PRESIDENTE PRUDENTE;Comarca: REGENTE FEIJO;REGENTE FEIJO
+3553906;Tarabai;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;27ª CJ: PRESIDENTE PRUDENTE;Comarca: PIRAPOZINHO;PIRAPOZINHO
+3554300;Teodoro Sampaio;RA de Presidente Prudente;RG de Presidente Prudente;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;28ª CJ: PRESIDENTE VENCESLAU;Comarca: TEODORO SAMPAIO;TEODORO SAMPAIO
+3555109;Tupi Paulista;RA de Presidente Prudente;RG de Dracena;-;-;DRS XI - Presidente Prudente;DRS - Presidente Prudente;DRS - Presidente Prudente;5ª RAJ - Presidente Prudente;29ª CJ: DRACENA;Comarca: TUPI PAULISTA;TUPI PAULISTA
+3505401;Barra do Turvo;RA de Registro;RG de Registro;-;-;DRS XII - Registro;DRS - Registro;DRS - Registro;7ª RAJ - Santos;21ª CJ: REGISTRO;Comarca: JACUPIRANGA;JACUPIRANGA
+3509254;Cajati;RA de Registro;RG de Registro;-;-;DRS XII - Registro;DRS - Registro;DRS - Registro;7ª RAJ - Santos;21ª CJ: REGISTRO;Comarca: JACUPIRANGA;JACUPIRANGA
+3509908;Cananéia;RA de Registro;RG de Registro;-;-;DRS XII - Registro;DRS - Registro;DRS - Registro;7ª RAJ - Santos;21ª CJ: REGISTRO;Comarca: CANANEIA;CANANEIA
+3514809;Eldorado;RA de Registro;RG de Registro;-;-;DRS XII - Registro;DRS - Registro;DRS - Registro;7ª RAJ - Santos;21ª CJ: REGISTRO;Comarca: ELDORADO;ELDORADO
+3520301;Iguape;RA de Registro;RG de Registro;-;-;DRS XII - Registro;DRS - Registro;DRS - Registro;7ª RAJ - Santos;21ª CJ: REGISTRO;Comarca: IGUAPE;IGUAPE
+3520426;Ilha Comprida;RA de Registro;RG de Registro;-;-;DRS XII - Registro;DRS - Registro;DRS - Registro;7ª RAJ - Santos;21ª CJ: REGISTRO;Comarca: IGUAPE;IGUAPE
+3521200;Iporanga;RA de Itapeva;RG de Itapeva;-;-;DRS XII - Registro;DRS - Registro;DRS - Registro;7ª RAJ - Santos;21ª CJ: REGISTRO;Comarca: ELDORADO;ELDORADO
+3523305;Itariri;RA de Registro;RG de Registro;-;-;DRS XII - Registro;DRS - Registro;DRS - Registro;7ª RAJ - Santos;56ª CJ: ITANHAÉM;Comarca: ITARIRI;ITARIRI
+3524600;Jacupiranga;RA de Registro;RG de Registro;-;-;DRS XII - Registro;DRS - Registro;DRS - Registro;7ª RAJ - Santos;21ª CJ: REGISTRO;Comarca: JACUPIRANGA;JACUPIRANGA
+3526100;Juquiá;RA de Registro;RG de Registro;-;-;DRS XII - Registro;DRS - Registro;DRS - Registro;7ª RAJ - Santos;21ª CJ: REGISTRO;Comarca: JUQUIA;JUQUIA
+3529906;Miracatu;RA de Registro;RG de Registro;-;-;DRS XII - Registro;DRS - Registro;DRS - Registro;7ª RAJ - Santos;21ª CJ: REGISTRO;Comarca: MIRACATU;MIRACATU
+3536208;Pariquera-Açu;RA de Registro;RG de Registro;-;-;DRS XII - Registro;DRS - Registro;DRS - Registro;7ª RAJ - Santos;21ª CJ: REGISTRO;Comarca: PARIQUERA-ACU;PARIQUERA-ACU
+3537206;Pedro de Toledo;RA de Registro;RG de Registro;-;-;DRS XII - Registro;DRS - Registro;DRS - Registro;7ª RAJ - Santos;56ª CJ: ITANHAÉM;Comarca: ITARIRI;ITARIRI
+3542602;Registro;RA de Registro;RG de Registro;-;-;DRS XII - Registro;DRS - Registro;DRS - Registro;7ª RAJ - Santos;21ª CJ: REGISTRO;Comarca: REGISTRO;REGISTRO
+3551801;Sete Barras;RA de Registro;RG de Registro;-;-;DRS XII - Registro;DRS - Registro;DRS - Registro;7ª RAJ - Santos;21ª CJ: REGISTRO;Comarca: REGISTRO;REGISTRO
+3501004;Altinópolis;RA de Ribeirão Preto;RG de Ribeirão Preto;RM de Ribeirão Preto;-;DRS XIII - Ribeirão Preto;DRS - Ribeirão Preto;DRS - Ribeirão Preto;6ª RAJ - Ribeirão Preto;39ª CJ: BATATAIS;Comarca: ALTINOPOLIS;ALTINOPOLIS
+3505609;Barrinha;RA de Ribeirão Preto;RG de Ribeirão Preto;RM de Ribeirão Preto;-;DRS XIII - Ribeirão Preto;DRS - Ribeirão Preto;DRS - Ribeirão Preto;6ª RAJ - Ribeirão Preto;41ª CJ: RIBEIRÃO PRETO;Comarca: SERTAOZINHO;SERTAOZINHO
+3505906;Batatais;RA de Franca;RG de Franca;RM de Ribeirão Preto;-;DRS XIII - Ribeirão Preto;DRS - Ribeirão Preto;DRS - Ribeirão Preto;6ª RAJ - Ribeirão Preto;39ª CJ: BATATAIS;Comarca: BATATAIS;BATATAIS
+3507803;Brodowski;RA de Ribeirão Preto;RG de Ribeirão Preto;RM de Ribeirão Preto;-;DRS XIII - Ribeirão Preto;DRS - Ribeirão Preto;DRS - Ribeirão Preto;6ª RAJ - Ribeirão Preto;39ª CJ: BATATAIS;Comarca: BRODOWSKI;BRODOWSKI
+3509403;Cajuru;RA de Ribeirão Preto;RG de Ribeirão Preto;RM de Ribeirão Preto;-;DRS XIII - Ribeirão Preto;DRS - Ribeirão Preto;DRS - Ribeirão Preto;6ª RAJ - Ribeirão Preto;41ª CJ: RIBEIRÃO PRETO;Comarca: CAJURU;CAJURU
+3510906;Cássia dos Coqueiros;RA de Ribeirão Preto;RG de Ribeirão Preto;RM de Ribeirão Preto;-;DRS XIII - Ribeirão Preto;DRS - Ribeirão Preto;DRS - Ribeirão Preto;6ª RAJ - Ribeirão Preto;41ª CJ: RIBEIRÃO PRETO;Comarca: CAJURU;CAJURU
+3513108;Cravinhos;RA de Ribeirão Preto;RG de Ribeirão Preto;RM de Ribeirão Preto;-;DRS XIII - Ribeirão Preto;DRS - Ribeirão Preto;DRS - Ribeirão Preto;6ª RAJ - Ribeirão Preto;41ª CJ: RIBEIRÃO PRETO;Comarca: CRAVINHOS;CRAVINHOS
+3514601;Dumont;RA de Ribeirão Preto;RG de Ribeirão Preto;RM de Ribeirão Preto;-;DRS XIII - Ribeirão Preto;DRS - Ribeirão Preto;DRS - Ribeirão Preto;6ª RAJ - Ribeirão Preto;41ª CJ: RIBEIRÃO PRETO;Comarca: SERTAOZINHO;SERTAOZINHO
+3518602;Guariba;RA de Ribeirão Preto;RG de Ribeirão Preto;RM de Ribeirão Preto;-;DRS XIII - Ribeirão Preto;DRS - Ribeirão Preto;DRS - Ribeirão Preto;6ª RAJ - Ribeirão Preto;42ª CJ: JABOTICABAL;Comarca: GUARIBA;GUARIBA
+3518859;Guatapará;RA de Ribeirão Preto;RG de Ribeirão Preto;RM de Ribeirão Preto;-;DRS XIII - Ribeirão Preto;DRS - Ribeirão Preto;DRS - Ribeirão Preto;6ª RAJ - Ribeirão Preto;41ª CJ: RIBEIRÃO PRETO;Comarca: RIBEIRÃO PRETO;RIBEIRÃO PRETO
+3524303;Jaboticabal;RA de Ribeirão Preto;RG de Ribeirão Preto;RM de Ribeirão Preto;-;DRS XIII - Ribeirão Preto;DRS - Ribeirão Preto;DRS - Ribeirão Preto;6ª RAJ - Ribeirão Preto;42ª CJ: JABOTICABAL;Comarca: JABOTICABAL;JABOTICABAL
+3525102;Jardinópolis;RA de Ribeirão Preto;RG de Ribeirão Preto;RM de Ribeirão Preto;-;DRS XIII - Ribeirão Preto;DRS - Ribeirão Preto;DRS - Ribeirão Preto;6ª RAJ - Ribeirão Preto;41ª CJ: RIBEIRÃO PRETO;Comarca: JARDINOPOLIS;JARDINOPOLIS
+3527603;Luís Antônio;RA de Ribeirão Preto;RG de Ribeirão Preto;RM de Ribeirão Preto;-;DRS XIII - Ribeirão Preto;DRS - Ribeirão Preto;DRS - Ribeirão Preto;6ª RAJ - Ribeirão Preto;41ª CJ: RIBEIRÃO PRETO;Comarca: SAO SIMAO;SAO SIMAO
+3531308;Monte Alto;RA de Ribeirão Preto;RG de Ribeirão Preto;RM de Ribeirão Preto;-;DRS XIII - Ribeirão Preto;DRS - Ribeirão Preto;DRS - Ribeirão Preto;6ª RAJ - Ribeirão Preto;42ª CJ: JABOTICABAL;Comarca: MONTE ALTO;MONTE ALTO
+3539509;Pitangueiras;RA de Ribeirão Preto;RG de Ribeirão Preto;RM de Ribeirão Preto;-;DRS XIII - Ribeirão Preto;DRS - Ribeirão Preto;DRS - Ribeirão Preto;6ª RAJ - Ribeirão Preto;42ª CJ: JABOTICABAL;Comarca: PITANGUEIRAS;PITANGUEIRAS
+3540200;Pontal;RA de Ribeirão Preto;RG de Ribeirão Preto;RM de Ribeirão Preto;-;DRS XIII - Ribeirão Preto;DRS - Ribeirão Preto;DRS - Ribeirão Preto;6ª RAJ - Ribeirão Preto;41ª CJ: RIBEIRÃO PRETO;Comarca: PONTAL;PONTAL
+3540903;Pradópolis;RA de Ribeirão Preto;RG de Ribeirão Preto;RM de Ribeirão Preto;-;DRS XIII - Ribeirão Preto;DRS - Ribeirão Preto;DRS - Ribeirão Preto;6ª RAJ - Ribeirão Preto;42ª CJ: JABOTICABAL;Comarca: GUARIBA;GUARIBA
+3543402;Ribeirão Preto;RA de Ribeirão Preto;RG de Ribeirão Preto;RM de Ribeirão Preto;-;DRS XIII - Ribeirão Preto;DRS - Ribeirão Preto;DRS - Ribeirão Preto;6ª RAJ - Ribeirão Preto;41ª CJ: RIBEIRÃO PRETO;Comarca: RIBEIRÃO PRETO;RIBEIRÃO PRETO
+3546256;Santa Cruz da Esperança;RA de Ribeirão Preto;RG de Ribeirão Preto;RM de Ribeirão Preto;-;DRS XIII - Ribeirão Preto;DRS - Ribeirão Preto;DRS - Ribeirão Preto;6ª RAJ - Ribeirão Preto;41ª CJ: RIBEIRÃO PRETO;Comarca: CAJURU;CAJURU
+3547502;Santa Rita do Passa Quatro;RA Central;RG de São Carlos;RM de Ribeirão Preto;-;DRS XIII - Ribeirão Preto;DRS - Ribeirão Preto;DRS - Ribeirão Preto;4ª RAJ - Campinas;11ª CJ: PIRASSUNUNGA;Comarca: SANTA RITA DO PASSA QUATRO;SANTA RITA DO PASSA QUATRO
+3547601;Santa Rosa de Viterbo;RA de Ribeirão Preto;RG de Ribeirão Preto;RM de Ribeirão Preto;-;DRS XIII - Ribeirão Preto;DRS - Ribeirão Preto;DRS - Ribeirão Preto;6ª RAJ - Ribeirão Preto;41ª CJ: RIBEIRÃO PRETO;Comarca: SANTA ROSA DE VITERBO;SANTA ROSA DE VITERBO
+3547908;Santo Antônio da Alegria;RA de Ribeirão Preto;RG de Ribeirão Preto;RM de Ribeirão Preto;-;DRS XIII - Ribeirão Preto;DRS - Ribeirão Preto;DRS - Ribeirão Preto;6ª RAJ - Ribeirão Preto;39ª CJ: BATATAIS;Comarca: ALTINOPOLIS;ALTINOPOLIS
+3550902;São Simão;RA de Ribeirão Preto;RG de Ribeirão Preto;RM de Ribeirão Preto;-;DRS XIII - Ribeirão Preto;DRS - Ribeirão Preto;DRS - Ribeirão Preto;6ª RAJ - Ribeirão Preto;41ª CJ: RIBEIRÃO PRETO;Comarca: SAO SIMAO;SAO SIMAO
+3551405;Serra Azul;RA de Ribeirão Preto;RG de Ribeirão Preto;RM de Ribeirão Preto;-;DRS XIII - Ribeirão Preto;DRS - Ribeirão Preto;DRS - Ribeirão Preto;6ª RAJ - Ribeirão Preto;41ª CJ: RIBEIRÃO PRETO;Comarca: CRAVINHOS;CRAVINHOS
+3551504;Serrana;RA de Ribeirão Preto;RG de Ribeirão Preto;RM de Ribeirão Preto;-;DRS XIII - Ribeirão Preto;DRS - Ribeirão Preto;DRS - Ribeirão Preto;6ª RAJ - Ribeirão Preto;41ª CJ: RIBEIRÃO PRETO;Comarca: SERRANA;SERRANA
+3551702;Sertãozinho;RA de Ribeirão Preto;RG de Ribeirão Preto;RM de Ribeirão Preto;-;DRS XIII - Ribeirão Preto;DRS - Ribeirão Preto;DRS - Ribeirão Preto;6ª RAJ - Ribeirão Preto;41ª CJ: RIBEIRÃO PRETO;Comarca: SERTAOZINHO;SERTAOZINHO
+3500303;Aguaí;RA de Campinas;RG de São João da Boa Vista;-;-;DRS XIV - São João da Boa Vista;DRS - São João da Boa Vista;DRS - São João da Boa Vista;4ª RAJ - Campinas;50ª CJ: SÃO JOÃO DA BOA VISTA;Comarca: AGUAI;AGUAI
+3500402;Águas da Prata;RA de Campinas;RG de São João da Boa Vista;-;-;DRS XIV - São João da Boa Vista;DRS - São João da Boa Vista;DRS - São João da Boa Vista;4ª RAJ - Campinas;50ª CJ: SÃO JOÃO DA BOA VISTA;Comarca: SÃO JOÃO DA BOA VISTA;SÃO JOÃO DA BOA VISTA
+3508702;Caconde;RA de Campinas;RG de São João da Boa Vista;-;-;DRS XIV - São João da Boa Vista;DRS - São João da Boa Vista;DRS - São João da Boa Vista;6ª RAJ - Ribeirão Preto;43ª CJ: CASA BRANCA;Comarca: CACONDE;CACONDE
+3510807;Casa Branca;RA de Campinas;RG de São João da Boa Vista;-;-;DRS XIV - São João da Boa Vista;DRS - São João da Boa Vista;DRS - São João da Boa Vista;6ª RAJ - Ribeirão Preto;43ª CJ: CASA BRANCA;Comarca: CASA BRANCA;CASA BRANCA
+3513900;Divinolândia;RA de Campinas;RG de São João da Boa Vista;-;-;DRS XIV - São João da Boa Vista;DRS - São João da Boa Vista;DRS - São João da Boa Vista;6ª RAJ - Ribeirão Preto;43ª CJ: CASA BRANCA;Comarca: SAO SEBASTIAO DA GRAMA;SAO SEBASTIAO DA GRAMA
+3515186;Espírito Santo do Pinhal;RA de Campinas;RG de São João da Boa Vista;-;-;DRS XIV - São João da Boa Vista;DRS - São João da Boa Vista;DRS - São João da Boa Vista;4ª RAJ - Campinas;50ª CJ: SÃO JOÃO DA BOA VISTA;Comarca: ESPIRITO SANTO DO PINHAL;ESPIRITO SANTO DO PINHAL
+3557303;Estiva Gerbi;RA de Campinas;RG de Campinas;-;-;DRS XIV - São João da Boa Vista;DRS - São João da Boa Vista;DRS - São João da Boa Vista;4ª RAJ - Campinas;07ª CJ: MOGI MIRIM;Comarca: MOGI GUACU;MOGI GUACU
+3522604;Itapira;RA de Campinas;RG de Campinas;-;-;DRS XIV - São João da Boa Vista;DRS - São João da Boa Vista;DRS - São João da Boa Vista;4ª RAJ - Campinas;07ª CJ: MOGI MIRIM;Comarca: ITAPIRA;ITAPIRA
+3523800;Itobi;RA de Campinas;RG de São João da Boa Vista;-;-;DRS XIV - São João da Boa Vista;DRS - São João da Boa Vista;DRS - São João da Boa Vista;6ª RAJ - Ribeirão Preto;43ª CJ: CASA BRANCA;Comarca: CASA BRANCA;CASA BRANCA
+3530508;Mococa;RA de Campinas;RG de São João da Boa Vista;RM de Ribeirão Preto;-;DRS XIV - São João da Boa Vista;DRS - São João da Boa Vista;DRS - São João da Boa Vista;6ª RAJ - Ribeirão Preto;43ª CJ: CASA BRANCA;Comarca: MOCOCA;MOCOCA
+3530706;Mogi Guaçu;RA de Campinas;RG de Campinas;-;-;DRS XIV - São João da Boa Vista;DRS - São João da Boa Vista;DRS - São João da Boa Vista;4ª RAJ - Campinas;07ª CJ: MOGI MIRIM;Comarca: MOGI GUACU;MOGI GUACU
+3530805;Mogi Mirim;RA de Campinas;RG de Campinas;-;-;DRS XIV - São João da Boa Vista;DRS - São João da Boa Vista;DRS - São João da Boa Vista;4ª RAJ - Campinas;07ª CJ: MOGI MIRIM;Comarca: MOGI MIRIM;MOGI MIRIM
+3546306;Santa Cruz das Palmeiras;RA de Campinas;RG de São João da Boa Vista;-;-;DRS XIV - São João da Boa Vista;DRS - São João da Boa Vista;DRS - São João da Boa Vista;6ª RAJ - Ribeirão Preto;43ª CJ: CASA BRANCA;Comarca: SANTA CRUZ DAS PALMEIRAS;SANTA CRUZ DAS PALMEIRAS
+3548104;Santo Antônio do Jardim;RA de Campinas;RG de São João da Boa Vista;-;-;DRS XIV - São João da Boa Vista;DRS - São João da Boa Vista;DRS - São João da Boa Vista;4ª RAJ - Campinas;50ª CJ: SÃO JOÃO DA BOA VISTA;Comarca: ESPIRITO SANTO DO PINHAL;ESPIRITO SANTO DO PINHAL
+3549102;São João da Boa Vista;RA de Campinas;RG de São João da Boa Vista;-;-;DRS XIV - São João da Boa Vista;DRS - São João da Boa Vista;DRS - São João da Boa Vista;4ª RAJ - Campinas;50ª CJ: SÃO JOÃO DA BOA VISTA;Comarca: SÃO JOÃO DA BOA VISTA;SÃO JOÃO DA BOA VISTA
+3549706;São José do Rio Pardo;RA de Campinas;RG de São João da Boa Vista;-;-;DRS XIV - São João da Boa Vista;DRS - São João da Boa Vista;DRS - São João da Boa Vista;6ª RAJ - Ribeirão Preto;43ª CJ: CASA BRANCA;Comarca: SAO JOSE DO RIO PARDO;SAO JOSE DO RIO PARDO
+3550803;São Sebastião da Grama;RA de Campinas;RG de São João da Boa Vista;-;-;DRS XIV - São João da Boa Vista;DRS - São João da Boa Vista;DRS - São João da Boa Vista;6ª RAJ - Ribeirão Preto;43ª CJ: CASA BRANCA;Comarca: SAO SEBASTIAO DA GRAMA;SAO SEBASTIAO DA GRAMA
+3553302;Tambaú;RA de Campinas;RG de São João da Boa Vista;RM de Ribeirão Preto;-;DRS XIV - São João da Boa Vista;DRS - São João da Boa Vista;DRS - São João da Boa Vista;6ª RAJ - Ribeirão Preto;43ª CJ: CASA BRANCA;Comarca: TAMBAU;TAMBAU
+3553609;Tapiratiba;RA de Campinas;RG de São João da Boa Vista;-;-;DRS XIV - São João da Boa Vista;DRS - São João da Boa Vista;DRS - São João da Boa Vista;6ª RAJ - Ribeirão Preto;43ª CJ: CASA BRANCA;Comarca: CACONDE;CACONDE
+3556404;Vargem Grande do Sul;RA de Campinas;RG de São João da Boa Vista;-;-;DRS XIV - São João da Boa Vista;DRS - São João da Boa Vista;DRS - São João da Boa Vista;4ª RAJ - Campinas;50ª CJ: SÃO JOÃO DA BOA VISTA;Comarca: VARGEM GRANDE DO SUL;VARGEM GRANDE DO SUL
+3500204;Adolfo;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: JOSE BONIFACIO;JOSE BONIFACIO
+3501202;Álvares Florence;RA de São José do Rio Preto;RG de Votuporanga;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;17ª CJ: VOTUPORANGA;Comarca: VOTUPORANGA;VOTUPORANGA
+3501806;Américo de Campos;RA de São José do Rio Preto;RG de Votuporanga;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: TANABI;TANABI
+3502606;Aparecida d'Oeste;RA de São José do Rio Preto;RG de Jales;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;2ª RAJ - Araçatuba;55ª CJ: JALES;Comarca: PALMEIRA D OESTE;PALMEIRA D OESTE
+3503703;Ariranha;RA de São José do Rio Preto;RG de Catanduva;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;15ª CJ: CATANDUVA;Comarca: SANTA ADELIA;SANTA ADELIA
+3503950;Aspásia;RA de São José do Rio Preto;RG de Jales;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;2ª RAJ - Araçatuba;55ª CJ: JALES;Comarca: URANIA;URANIA
+3504602;Bady Bassitt;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: SÃO JOSÉ DO RIO PRETO;SÃO JOSÉ DO RIO PRETO
+3504800;Bálsamo;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: MIRASSOL;MIRASSOL
+3510708;Cardoso;RA de São José do Rio Preto;RG de Votuporanga;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;17ª CJ: VOTUPORANGA;Comarca: CARDOSO;CARDOSO
+3511102;Catanduva;RA de São José do Rio Preto;RG de Catanduva;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;15ª CJ: CATANDUVA;Comarca: CATANDUVA;CATANDUVA
+3511201;Catiguá;RA de São José do Rio Preto;RG de Catanduva;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;15ª CJ: CATANDUVA;Comarca: TABAPUA;TABAPUA
+3511300;Cedral;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: SÃO JOSÉ DO RIO PRETO;SÃO JOSÉ DO RIO PRETO
+3512902;Cosmorama;RA de São José do Rio Preto;RG de Votuporanga;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: TANABI;TANABI
+3513850;Dirce Reis;RA de São José do Rio Preto;RG de Jales;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;2ª RAJ - Araçatuba;55ª CJ: JALES;Comarca: JALES;JALES
+3514205;Dolcinópolis;RA de São José do Rio Preto;RG de Jales;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;18ª CJ: FERNANDÓPOLIS;Comarca: ESTRELA D OESTE;ESTRELA D OESTE
+3514924;Elisiário;RA de São José do Rio Preto;RG de Catanduva;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;15ª CJ: CATANDUVA;Comarca: CATANDUVA;CATANDUVA
+3514957;Embaúba;RA de Barretos;RG de Barretos;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;14ª CJ: BARRETOS;Comarca: OLIMPIA;OLIMPIA
+3515202;Estrela d'Oeste;RA de São José do Rio Preto;RG de Fernandópolis;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;18ª CJ: FERNANDÓPOLIS;Comarca: ESTRELA D OESTE;ESTRELA D OESTE
+3515608;Fernando Prestes;RA Central;RG de Araraquara;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;6ª RAJ - Ribeirão Preto;42ª CJ: JABOTICABAL;Comarca: TAQUARITINGA;TAQUARITINGA
+3515509;Fernandópolis;RA de São José do Rio Preto;RG de Fernandópolis;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;18ª CJ: FERNANDÓPOLIS;Comarca: FERNANDÓPOLIS;FERNANDÓPOLIS
+3515905;Floreal;RA de São José do Rio Preto;RG de Votuporanga;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;17ª CJ: VOTUPORANGA;Comarca: NHANDEARA;NHANDEARA
+3516804;Gastão Vidigal;RA de Araçatuba;RG de Araçatuba;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;17ª CJ: VOTUPORANGA;Comarca: NHANDEARA;NHANDEARA
+3516903;General Salgado;RA de Araçatuba;RG de Araçatuba;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;18ª CJ: FERNANDÓPOLIS;Comarca: GENERAL SALGADO;GENERAL SALGADO
+3517505;Guapiaçu;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: SÃO JOSÉ DO RIO PRETO;SÃO JOSÉ DO RIO PRETO
+3518008;Guarani d'Oeste;RA de São José do Rio Preto;RG de Fernandópolis;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;18ª CJ: FERNANDÓPOLIS;Comarca: OUROESTE;OUROESTE
+3519402;Ibirá;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;15ª CJ: CATANDUVA;Comarca: CATANDUVA;CATANDUVA
+3519808;Icém;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: NOVA GRANADA;NOVA GRANADA
+3520707;Indiaporã;RA de São José do Rio Preto;RG de Fernandópolis;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;18ª CJ: FERNANDÓPOLIS;Comarca: OUROESTE;OUROESTE
+3521150;Ipiguá;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: SÃO JOSÉ DO RIO PRETO;SÃO JOSÉ DO RIO PRETO
+3521507;Irapuã;RA de São José do Rio Preto;RG de Catanduva;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;15ª CJ: CATANDUVA;Comarca: URUPES;URUPES
+3521903;Itajobi;RA de São José do Rio Preto;RG de Catanduva;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;15ª CJ: CATANDUVA;Comarca: ITAJOBI;ITAJOBI
+3524501;Jaci;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: MIRASSOL;MIRASSOL
+3524808;Jales;RA de São José do Rio Preto;RG de Jales;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;2ª RAJ - Araçatuba;55ª CJ: JALES;Comarca: JALES;JALES
+3525706;José Bonifácio;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: JOSE BONIFACIO;JOSE BONIFACIO
+3528106;Macaubal;RA de São José do Rio Preto;RG de Votuporanga;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: MACAUBAL;MACAUBAL
+3528205;Macedônia;RA de São José do Rio Preto;RG de Fernandópolis;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;18ª CJ: FERNANDÓPOLIS;Comarca: FERNANDÓPOLIS;FERNANDÓPOLIS
+3528304;Magda;RA de São José do Rio Preto;RG de Votuporanga;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;17ª CJ: VOTUPORANGA;Comarca: NHANDEARA;NHANDEARA
+3528858;Marapoama;RA de São José do Rio Preto;RG de Catanduva;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;15ª CJ: CATANDUVA;Comarca: ITAJOBI;ITAJOBI
+3529104;Marinópolis;RA de São José do Rio Preto;RG de Jales;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;2ª RAJ - Araçatuba;55ª CJ: JALES;Comarca: PALMEIRA D OESTE;PALMEIRA D OESTE
+3529500;Mendonça;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: JOSE BONIFACIO;JOSE BONIFACIO
+3529609;Meridiano;RA de São José do Rio Preto;RG de Fernandópolis;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;18ª CJ: FERNANDÓPOLIS;Comarca: FERNANDÓPOLIS;FERNANDÓPOLIS
+3529658;Mesópolis;RA de São José do Rio Preto;RG de Jales;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;2ª RAJ - Araçatuba;55ª CJ: JALES;Comarca: JALES;JALES
+3530003;Mira Estrela;RA de São José do Rio Preto;RG de Fernandópolis;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;17ª CJ: VOTUPORANGA;Comarca: CARDOSO;CARDOSO
+3530300;Mirassol;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: MIRASSOL;MIRASSOL
+3530409;Mirassolândia;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: MIRASSOL;MIRASSOL
+3531001;Monções;RA de São José do Rio Preto;RG de Votuporanga;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;17ª CJ: VOTUPORANGA;Comarca: NHANDEARA;NHANDEARA
+3531407;Monte Aprazível;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: MONTE APRAZIVEL;MONTE APRAZIVEL
+3532504;Neves Paulista;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: NEVES PAULISTA;NEVES PAULISTA
+3532603;Nhandeara;RA de São José do Rio Preto;RG de Votuporanga;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;17ª CJ: VOTUPORANGA;Comarca: NHANDEARA;NHANDEARA
+3532702;Nipoã;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: MONTE APRAZIVEL;MONTE APRAZIVEL
+3532801;Nova Aliança;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: POTIRENDABA;POTIRENDABA
+3532843;Nova Canaã Paulista;RA de São José do Rio Preto;RG de Jales;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;2ª RAJ - Araçatuba;55ª CJ: JALES;Comarca: SANTA FE DO SUL;SANTA FE DO SUL
+3533007;Nova Granada;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: NOVA GRANADA;NOVA GRANADA
+3533254;Novais;RA de São José do Rio Preto;RG de Catanduva;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;15ª CJ: CATANDUVA;Comarca: TABAPUA;TABAPUA
+3533502;Novo Horizonte;RA de São José do Rio Preto;RG de Catanduva;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;15ª CJ: CATANDUVA;Comarca: NOVO HORIZONTE;NOVO HORIZONTE
+3534005;Onda Verde;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: NOVA GRANADA;NOVA GRANADA
+3534203;Orindiúva;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: PAULO DE FARIA;PAULO DE FARIA
+3534757;Ouroeste;RA de São José do Rio Preto;RG de Fernandópolis;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;18ª CJ: FERNANDÓPOLIS;Comarca: OUROESTE;OUROESTE
+3535002;Palestina;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: PALESTINA;PALESTINA
+3535101;Palmares Paulista;RA de São José do Rio Preto;RG de Catanduva;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;15ª CJ: CATANDUVA;Comarca: SANTA ADELIA;SANTA ADELIA
+3535200;Palmeira d'Oeste;RA de São José do Rio Preto;RG de Jales;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;2ª RAJ - Araçatuba;55ª CJ: JALES;Comarca: PALMEIRA D OESTE;PALMEIRA D OESTE
+3535705;Paraíso;RA de São José do Rio Preto;RG de Catanduva;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;14ª CJ: BARRETOS;Comarca: MONTE AZUL PAULISTA;MONTE AZUL PAULISTA
+3535903;Paranapuã;RA de São José do Rio Preto;RG de Jales;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;2ª RAJ - Araçatuba;55ª CJ: JALES;Comarca: JALES;JALES
+3536257;Parisi;RA de São José do Rio Preto;RG de Votuporanga;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;17ª CJ: VOTUPORANGA;Comarca: VOTUPORANGA;VOTUPORANGA
+3536604;Paulo de Faria;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: PAULO DE FARIA;PAULO DE FARIA
+3536901;Pedranópolis;RA de São José do Rio Preto;RG de Fernandópolis;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;18ª CJ: FERNANDÓPOLIS;Comarca: FERNANDÓPOLIS;FERNANDÓPOLIS
+3538105;Pindorama;RA de São José do Rio Preto;RG de Catanduva;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;15ª CJ: CATANDUVA;Comarca: CATANDUVA;CATANDUVA
+3539004;Pirangi;RA de Barretos;RG de Barretos;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;6ª RAJ - Ribeirão Preto;42ª CJ: JABOTICABAL;Comarca: PIRANGI;PIRANGI
+3539608;Planalto;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;2ª RAJ - Araçatuba;36ª CJ: ARAÇATUBA;Comarca: BURITAMA;BURITAMA
+3539905;Poloni;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: MONTE APRAZIVEL;MONTE APRAZIVEL
+3540259;Pontalinda;RA de São José do Rio Preto;RG de Jales;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;2ª RAJ - Araçatuba;55ª CJ: JALES;Comarca: JALES;JALES
+3540309;Pontes Gestal;RA de São José do Rio Preto;RG de Votuporanga;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;17ª CJ: VOTUPORANGA;Comarca: CARDOSO;CARDOSO
+3540408;Populina;RA de São José do Rio Preto;RG de Fernandópolis;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;18ª CJ: FERNANDÓPOLIS;Comarca: ESTRELA D OESTE;ESTRELA D OESTE
+3540804;Potirendaba;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: POTIRENDABA;POTIRENDABA
+3544202;Riolândia;RA de São José do Rio Preto;RG de Votuporanga;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: PAULO DE FARIA;PAULO DE FARIA
+3544509;Rubinéia;RA de São José do Rio Preto;RG de Jales;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;2ª RAJ - Araçatuba;55ª CJ: JALES;Comarca: SANTA FE DO SUL;SANTA FE DO SUL
+3544806;Sales;RA de São José do Rio Preto;RG de Catanduva;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;15ª CJ: CATANDUVA;Comarca: URUPES;URUPES
+3545605;Santa Adélia;RA de São José do Rio Preto;RG de Catanduva;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;15ª CJ: CATANDUVA;Comarca: SANTA ADELIA;SANTA ADELIA
+3545704;Santa Albertina;RA de São José do Rio Preto;RG de Jales;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;2ª RAJ - Araçatuba;55ª CJ: JALES;Comarca: JALES;JALES
+3546108;Santa Clara d'Oeste;RA de São José do Rio Preto;RG de Jales;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;2ª RAJ - Araçatuba;55ª CJ: JALES;Comarca: SANTA FE DO SUL;SANTA FE DO SUL
+3546603;Santa Fé do Sul;RA de São José do Rio Preto;RG de Jales;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;2ª RAJ - Araçatuba;55ª CJ: JALES;Comarca: SANTA FE DO SUL;SANTA FE DO SUL
+3547403;Santa Rita d'Oeste;RA de São José do Rio Preto;RG de Jales;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;2ª RAJ - Araçatuba;55ª CJ: JALES;Comarca: SANTA FE DO SUL;SANTA FE DO SUL
+3547650;Santa Salete;RA de São José do Rio Preto;RG de Jales;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;2ª RAJ - Araçatuba;55ª CJ: JALES;Comarca: URANIA;URANIA
+3547205;Santana da Ponte Pensa;RA de São José do Rio Preto;RG de Jales;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;2ª RAJ - Araçatuba;55ª CJ: JALES;Comarca: SANTA FE DO SUL;SANTA FE DO SUL
+3549003;São Francisco;RA de São José do Rio Preto;RG de Jales;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;2ª RAJ - Araçatuba;55ª CJ: JALES;Comarca: PALMEIRA D OESTE;PALMEIRA D OESTE
+3549201;São João das Duas Pontes;RA de São José do Rio Preto;RG de Fernandópolis;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;18ª CJ: FERNANDÓPOLIS;Comarca: ESTRELA D OESTE;ESTRELA D OESTE
+3549250;São João de Iracema;RA de Araçatuba;RG de Araçatuba;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;18ª CJ: FERNANDÓPOLIS;Comarca: GENERAL SALGADO;GENERAL SALGADO
+3549805;São José do Rio Preto;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: SÃO JOSÉ DO RIO PRETO;SÃO JOSÉ DO RIO PRETO
+3551306;Sebastianópolis do Sul;RA de São José do Rio Preto;RG de Votuporanga;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: MACAUBAL;MACAUBAL
+3552601;Tabapuã;RA de São José do Rio Preto;RG de Catanduva;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;15ª CJ: CATANDUVA;Comarca: TABAPUA;TABAPUA
+3553401;Tanabi;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: TANABI;TANABI
+3554904;Três Fronteiras;RA de São José do Rio Preto;RG de Jales;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;2ª RAJ - Araçatuba;55ª CJ: JALES;Comarca: SANTA FE DO SUL;SANTA FE DO SUL
+3555307;Turmalina;RA de São José do Rio Preto;RG de Fernandópolis;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;18ª CJ: FERNANDÓPOLIS;Comarca: ESTRELA D OESTE;ESTRELA D OESTE
+3555356;Ubarana;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: JOSE BONIFACIO;JOSE BONIFACIO
+3555604;Uchoa;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: SÃO JOSÉ DO RIO PRETO;SÃO JOSÉ DO RIO PRETO
+3555703;União Paulista;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;16ª CJ: SÃO JOSÉ DO RIO PRETO;Comarca: MACAUBAL;MACAUBAL
+3555802;Urânia;RA de São José do Rio Preto;RG de Jales;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;2ª RAJ - Araçatuba;55ª CJ: JALES;Comarca: URANIA;URANIA
+3556008;Urupês;RA de São José do Rio Preto;RG de Catanduva;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;15ª CJ: CATANDUVA;Comarca: URUPES;URUPES
+3556107;Valentim Gentil;RA de São José do Rio Preto;RG de Votuporanga;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;17ª CJ: VOTUPORANGA;Comarca: VOTUPORANGA;VOTUPORANGA
+3556958;Vitória Brasil;RA de São José do Rio Preto;RG de Jales;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;2ª RAJ - Araçatuba;55ª CJ: JALES;Comarca: JALES;JALES
+3557105;Votuporanga;RA de São José do Rio Preto;RG de Votuporanga;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;8ª RAJ - São José do Rio Preto;17ª CJ: VOTUPORANGA;Comarca: VOTUPORANGA;VOTUPORANGA
+3557154;Zacarias;RA de São José do Rio Preto;RG de São José do Rio Preto;-;-;DRS XV - São José do Rio Preto;DRS - São José do Rio Preto;DRS - São José do Rio Preto;2ª RAJ - Araçatuba;36ª CJ: ARAÇATUBA;Comarca: BURITAMA;BURITAMA
+3500758;Alambari;RA de Sorocaba;RG de Itapetininga;RM de Sorocaba;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;22ª CJ: ITAPETININGA;Comarca: ITAPETININGA;ITAPETININGA
+3501152;Alumínio;RA de Sorocaba;RG de Sorocaba;RM de Sorocaba;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;19ª CJ: SOROCABA;Comarca: MAIRINQUE;MAIRINQUE
+3502200;Angatuba;RA de Itapeva;RG de Itapeva;-;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;22ª CJ: ITAPETININGA;Comarca: ANGATUBA;ANGATUBA
+3502705;Apiaí;RA de Itapeva;RG de Itapeva;-;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;49ª CJ: ITAPEVA;Comarca: APIAI;APIAI
+3502754;Araçariguama;RA de Sorocaba;RG de Sorocaba;RM de Sorocaba;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;19ª CJ: SOROCABA;Comarca: SAO ROQUE;SAO ROQUE
+3502903;Araçoiaba da Serra;RA de Sorocaba;RG de Sorocaba;RM de Sorocaba;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;19ª CJ: SOROCABA;Comarca: SOROCABA;SOROCABA
+3505351;Barra do Chapéu;RA de Itapeva;RG de Itapeva;-;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;49ª CJ: ITAPEVA;Comarca: APIAI;APIAI
+3507001;Boituva;RA de Sorocaba;RG de Itapetininga;RM de Sorocaba;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;20ª CJ: ITU;Comarca: BOITUVA;BOITUVA
+3507159;Bom Sucesso de Itararé;RA de Itapeva;RG de Itapeva;-;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;49ª CJ: ITAPEVA;Comarca: ITARARE;ITARARE
+3508009;Buri;RA de Itapeva;RG de Itapeva;-;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;49ª CJ: ITAPEVA;Comarca: BURI;BURI
+3509452;Campina do Monte Alegre;RA de Itapeva;RG de Itapeva;-;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;22ª CJ: ITAPETININGA;Comarca: ANGATUBA;ANGATUBA
+3510203;Capão Bonito;RA de Itapeva;RG de Itapeva;-;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;22ª CJ: ITAPETININGA;Comarca: CAPAO BONITO;CAPAO BONITO
+3510302;Capela do Alto;RA de Sorocaba;RG de Itapetininga;RM de Sorocaba;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;22ª CJ: ITAPETININGA;Comarca: TATUI;TATUI
+3511508;Cerquilho;RA de Sorocaba;RG de Itapetininga;RM de Sorocaba;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;4ª RAJ - Campinas;34ª CJ: PIRACICABA;Comarca: CERQUILHO;CERQUILHO
+3511607;Cesário Lange;RA de Sorocaba;RG de Itapetininga;RM de Sorocaba;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;22ª CJ: ITAPETININGA;Comarca: CESARIO LANGE;CESARIO LANGE
+3517604;Guapiara;RA de Itapeva;RG de Itapeva;-;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;22ª CJ: ITAPETININGA;Comarca: CAPAO BONITO;CAPAO BONITO
+3518503;Guareí;RA de Sorocaba;RG de Itapetininga;-;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;22ª CJ: ITAPETININGA;Comarca: PORANGABA;PORANGABA
+3519709;Ibiúna;RA de Sorocaba;RG de Sorocaba;RM de Sorocaba;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;19ª CJ: SOROCABA;Comarca: IBIUNA;IBIUNA
+3521002;Iperó;RA de Sorocaba;RG de Sorocaba;RM de Sorocaba;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;20ª CJ: ITU;Comarca: BOITUVA;BOITUVA
+3521705;Itaberá;RA de Itapeva;RG de Itapeva;-;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;49ª CJ: ITAPEVA;Comarca: ITABERA;ITABERA
+3522158;Itaóca;RA de Itapeva;RG de Itapeva;-;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;49ª CJ: ITAPEVA;Comarca: APIAI;APIAI
+3522307;Itapetininga;RA de Sorocaba;RG de Itapetininga;RM de Sorocaba;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;22ª CJ: ITAPETININGA;Comarca: ITAPETININGA;ITAPETININGA
+3522406;Itapeva;RA de Itapeva;RG de Itapeva;-;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;49ª CJ: ITAPEVA;Comarca: ITAPEVA;ITAPEVA
+3522653;Itapirapuã Paulista;RA de Itapeva;RG de Itapeva;-;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;49ª CJ: ITAPEVA;Comarca: APIAI;APIAI
+3523206;Itararé;RA de Itapeva;RG de Itapeva;-;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;49ª CJ: ITAPEVA;Comarca: ITARARE;ITARARE
+3523909;Itu;RA de Sorocaba;RG de Sorocaba;RM de Sorocaba;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;20ª CJ: ITU;Comarca: ITU;ITU
+3525854;Jumirim;RA de Sorocaba;RG de Sorocaba;RM de Sorocaba;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;4ª RAJ - Campinas;34ª CJ: PIRACICABA;Comarca: TIETE;TIETE
+3528403;Mairinque;RA de Sorocaba;RG de Sorocaba;RM de Sorocaba;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;19ª CJ: SOROCABA;Comarca: MAIRINQUE;MAIRINQUE
+3532827;Nova Campina;RA de Itapeva;RG de Itapeva;-;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;49ª CJ: ITAPEVA;Comarca: ITAPEVA;ITAPEVA
+3537800;Piedade;RA de Sorocaba;RG de Sorocaba;RM de Sorocaba;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;19ª CJ: SOROCABA;Comarca: PIEDADE;PIEDADE
+3537909;Pilar do Sul;RA de Sorocaba;RG de Sorocaba;RM de Sorocaba;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;19ª CJ: SOROCABA;Comarca: PILAR DO SUL;PILAR DO SUL
+3540606;Porto Feliz;RA de Sorocaba;RG de Sorocaba;RM de Sorocaba;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;20ª CJ: ITU;Comarca: PORTO FELIZ;PORTO FELIZ
+3541653;Quadra;RA de Sorocaba;RG de Itapetininga;-;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;22ª CJ: ITAPETININGA;Comarca: TATUI;TATUI
+3542800;Ribeira;RA de Itapeva;RG de Itapeva;-;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;49ª CJ: ITAPEVA;Comarca: APIAI;APIAI
+3543006;Ribeirão Branco;RA de Itapeva;RG de Itapeva;-;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;49ª CJ: ITAPEVA;Comarca: ITAPEVA;ITAPEVA
+3543253;Ribeirão Grande;RA de Itapeva;RG de Itapeva;-;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;22ª CJ: ITAPETININGA;Comarca: CAPAO BONITO;CAPAO BONITO
+3543501;Riversul;RA de Itapeva;RG de Itapeva;-;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;49ª CJ: ITAPEVA;Comarca: ITAPORANGA;ITAPORANGA
+3545209;Salto;RA de Sorocaba;RG de Sorocaba;RM de Sorocaba;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;20ª CJ: ITU;Comarca: SALTO;SALTO
+3545308;Salto de Pirapora;RA de Sorocaba;RG de Sorocaba;RM de Sorocaba;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;19ª CJ: SOROCABA;Comarca: SALTO DE PIRAPORA;SALTO DE PIRAPORA
+3550209;São Miguel Arcanjo;RA de Sorocaba;RG de Itapetininga;RM de Sorocaba;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;22ª CJ: ITAPETININGA;Comarca: SAO MIGUEL ARCANJO;SAO MIGUEL ARCANJO
+3550605;São Roque;RA de Sorocaba;RG de Sorocaba;RM de Sorocaba;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;19ª CJ: SOROCABA;Comarca: SAO ROQUE;SAO ROQUE
+3551108;Sarapuí;RA de Sorocaba;RG de Itapetininga;RM de Sorocaba;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;22ª CJ: ITAPETININGA;Comarca: ITAPETININGA;ITAPETININGA
+3552205;Sorocaba;RA de Sorocaba;RG de Sorocaba;RM de Sorocaba;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;19ª CJ: SOROCABA;Comarca: SOROCABA;SOROCABA
+3553500;Tapiraí;RA de Sorocaba;RG de Sorocaba;RM de Sorocaba;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;19ª CJ: SOROCABA;Comarca: PIEDADE;PIEDADE
+3553856;Taquarivaí;RA de Itapeva;RG de Itapeva;-;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;49ª CJ: ITAPEVA;Comarca: ITAPEVA;ITAPEVA
+3554003;Tatuí;RA de Sorocaba;RG de Itapetininga;RM de Sorocaba;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;22ª CJ: ITAPETININGA;Comarca: TATUI;TATUI
+3554508;Tietê;RA de Sorocaba;RG de Sorocaba;RM de Sorocaba;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;4ª RAJ - Campinas;34ª CJ: PIRACICABA;Comarca: TIETE;TIETE
+3557006;Votorantim;RA de Sorocaba;RG de Sorocaba;RM de Sorocaba;-;DRS XVI - Sorocaba;DRS - Sorocaba;DRS - Sorocaba;10ª RAJ - Sorocaba;19ª CJ: SOROCABA;Comarca: VOTORANTIM;VOTORANTIM
+3502507;Aparecida;RA de São José dos Campos;RG de Guaratinguetá;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;48ª CJ: GUARATINGUETÁ;Comarca: APARECIDA;APARECIDA
+3503158;Arapeí;RA de São José dos Campos;RG de Cruzeiro;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;48ª CJ: GUARATINGUETÁ;Comarca: BANANAL;BANANAL
+3503505;Areias;RA de São José dos Campos;RG de Cruzeiro;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;48ª CJ: GUARATINGUETÁ;Comarca: QUELUZ;QUELUZ
+3504909;Bananal;RA de São José dos Campos;RG de Cruzeiro;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;48ª CJ: GUARATINGUETÁ;Comarca: BANANAL;BANANAL
+3508504;Caçapava;RA de São José dos Campos;RG de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;47ª CJ: TAUBATÉ;Comarca: CACAPAVA;CACAPAVA
+3508603;Cachoeira Paulista;RA de São José dos Campos;RG de Guaratinguetá;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;48ª CJ: GUARATINGUETÁ;Comarca: CACHOEIRA PAULISTA;CACHOEIRA PAULISTA
+3509700;Campos do Jordão;RA de São José dos Campos;RG de Taubaté;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;47ª CJ: TAUBATÉ;Comarca: CAMPOS DO JORDAO;CAMPOS DO JORDAO
+3509957;Canas;RA de São José dos Campos;RG de Guaratinguetá;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;48ª CJ: GUARATINGUETÁ;Comarca: LORENA;LORENA
+3510500;Caraguatatuba;RA de São José dos Campos;RG de Caraguatatuba;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;51ª CJ: CARAGUATATUBA;Comarca: CARAGUATATUBA;CARAGUATATUBA
+3513405;Cruzeiro;RA de São José dos Campos;RG de Cruzeiro;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;48ª CJ: GUARATINGUETÁ;Comarca: CRUZEIRO;CRUZEIRO
+3513603;Cunha;RA de São José dos Campos;RG de Guaratinguetá;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;48ª CJ: GUARATINGUETÁ;Comarca: CUNHA;CUNHA
+3518404;Guaratinguetá;RA de São José dos Campos;RG de Guaratinguetá;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;48ª CJ: GUARATINGUETÁ;Comarca: GUARATINGUETÁ;GUARATINGUETÁ
+3520202;Igaratá;RA de São José dos Campos;RG de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;1ª RAJ - Grande São Paulo;44ª CJ: GUARULHOS;Comarca: SANTA ISABEL;SANTA ISABEL
+3520400;Ilhabela;RA de São José dos Campos;RG de Caraguatatuba;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;51ª CJ: CARAGUATATUBA;Comarca: ILHABELA;ILHABELA
+3524402;Jacareí;RA de São José dos Campos;RG de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;46ª CJ: SÃO JOSÉ DOS CAMPOS;Comarca: JACAREI;JACAREI
+3524907;Jambeiro;RA de São José dos Campos;RG de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;47ª CJ: TAUBATÉ;Comarca: CACAPAVA;CACAPAVA
+3526308;Lagoinha;RA de São José dos Campos;RG de Taubaté;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;47ª CJ: TAUBATÉ;Comarca: SAO LUIS DO PARAITINGA;SAO LUIS DO PARAITINGA
+3526605;Lavrinhas;RA de São José dos Campos;RG de Cruzeiro;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;48ª CJ: GUARATINGUETÁ;Comarca: CRUZEIRO;CRUZEIRO
+3527207;Lorena;RA de São José dos Campos;RG de Guaratinguetá;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;48ª CJ: GUARATINGUETÁ;Comarca: LORENA;LORENA
+3531704;Monteiro Lobato;RA de São José dos Campos;RG de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;46ª CJ: SÃO JOSÉ DOS CAMPOS;Comarca: SÃO JOSÉ DOS CAMPOS;SÃO JOSÉ DOS CAMPOS
+3532306;Natividade da Serra;RA de São José dos Campos;RG de Taubaté;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;46ª CJ: SÃO JOSÉ DOS CAMPOS;Comarca: PARAIBUNA;PARAIBUNA
+3535606;Paraibuna;RA de São José dos Campos;RG de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;46ª CJ: SÃO JOSÉ DOS CAMPOS;Comarca: PARAIBUNA;PARAIBUNA
+3538006;Pindamonhangaba;RA de São José dos Campos;RG de Taubaté;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;47ª CJ: TAUBATÉ;Comarca: PINDAMONHANGABA;PINDAMONHANGABA
+3538501;Piquete;RA de São José dos Campos;RG de Guaratinguetá;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;48ª CJ: GUARATINGUETÁ;Comarca: PIQUETE;PIQUETE
+3540754;Potim;RA de São José dos Campos;RG de Guaratinguetá;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;48ª CJ: GUARATINGUETÁ;Comarca: APARECIDA;APARECIDA
+3541901;Queluz;RA de São José dos Campos;RG de Cruzeiro;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;48ª CJ: GUARATINGUETÁ;Comarca: QUELUZ;QUELUZ
+3542305;Redenção da Serra;RA de São José dos Campos;RG de Taubaté;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;47ª CJ: TAUBATÉ;Comarca: TAUBATÉ;TAUBATÉ
+3544301;Roseira;RA de São José dos Campos;RG de Guaratinguetá;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;48ª CJ: GUARATINGUETÁ;Comarca: ROSEIRA;ROSEIRA
+3546009;Santa Branca;RA de São José dos Campos;RG de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;46ª CJ: SÃO JOSÉ DOS CAMPOS;Comarca: SANTA BRANCA;SANTA BRANCA
+3548203;Santo Antônio do Pinhal;RA de São José dos Campos;RG de Taubaté;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;47ª CJ: TAUBATÉ;Comarca: SAO BENTO DO SAPUCAI;SAO BENTO DO SAPUCAI
+3548609;São Bento do Sapucaí;RA de São José dos Campos;RG de Taubaté;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;47ª CJ: TAUBATÉ;Comarca: SAO BENTO DO SAPUCAI;SAO BENTO DO SAPUCAI
+3549607;São José do Barreiro;RA de São José dos Campos;RG de Cruzeiro;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;48ª CJ: GUARATINGUETÁ;Comarca: BANANAL;BANANAL
+3549904;São José dos Campos;RA de São José dos Campos;RG de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;46ª CJ: SÃO JOSÉ DOS CAMPOS;Comarca: SÃO JOSÉ DOS CAMPOS;SÃO JOSÉ DOS CAMPOS
+3550001;São Luís do Paraitinga;RA de São José dos Campos;RG de Taubaté;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;47ª CJ: TAUBATÉ;Comarca: SAO LUIS DO PARAITINGA;SAO LUIS DO PARAITINGA
+3550704;São Sebastião;RA de São José dos Campos;RG de Caraguatatuba;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;51ª CJ: CARAGUATATUBA;Comarca: SAO SEBASTIAO;SAO SEBASTIAO
+3552007;Silveiras;RA de São José dos Campos;RG de Cruzeiro;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;48ª CJ: GUARATINGUETÁ;Comarca: CACHOEIRA PAULISTA;CACHOEIRA PAULISTA
+3554102;Taubaté;RA de São José dos Campos;RG de Taubaté;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;47ª CJ: TAUBATÉ;Comarca: TAUBATÉ;TAUBATÉ
+3554805;Tremembé;RA de São José dos Campos;RG de Taubaté;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;47ª CJ: TAUBATÉ;Comarca: TREMEMBE;TREMEMBE
+3555406;Ubatuba;RA de São José dos Campos;RG de Caraguatatuba;RM do Vale do Paraíba e Litoral Norte;-;DRS XVII - Taubaté;DRS - Taubaté;DRS - Taubaté;9ª RAJ - São José dos Campos;51ª CJ: CARAGUATATUBA;Comarca: UBATUBA;UBATUBA
