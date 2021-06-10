@@ -101,7 +101,7 @@ def ranking_municipios(df, populacao):
         df2 = df.loc[df['pop'] >= 300000]
     elif populacao == '500 mil':
         df2 = df.loc[df['pop'] >= 500000]
-    else :
+    else \:
         df2 = df.loc[df['pop'] >= 1000000]
 
     return agrupa_dados(df2, 'nome_munic', 'Município')
